@@ -1,0 +1,3526 @@
+31st:Pershing:1.624220
+31st:Cermak:1.612810
+Pershing:Cicero:2.629600
+Cermak:Roosevelt:1.637120
+Cermak:Ridgeland:3.234280
+Cermak:City Boundary:0.408852
+Roosevelt:Jefferson:8.513340
+Roosevelt:Sunnyside:10.708900
+Madison:Chicago:1.620560
+Madison:Washington:6.511140
+Chicago:North Ave:1.622490
+Chicago:Milwaukee:12.388700
+North Ave:Forest Preserve Ave:5.001070
+North Ave:Elston:11.868100
+Forest Preserve Ave:Gunnison:1.615320
+Forest Preserve Ave:Sheridan:12.620200
+Forest Preserve Ave:Pacific:1.650670
+Gunnison:Lawrence:3.836070
+Gunnison:Harlem:4.807720
+24th:Dr Martin L King Jr:2.813000
+24th:26th:0.579329
+51st:47th:0.809480
+51st:55th:0.810328
+51st:Garfield:2.552730
+51st:Dr Martin L King Jr:3.420720
+47th:43rd:0.814145
+47th:Western:3.643440
+47th:Garfield:2.914120
+47th:Columbus Ave:6.337570
+43rd:35th:1.619800
+43rd:Dan Ryan Expy:1.513200
+43rd:Ashland:1.833410
+43rd:Dr Martin L King Jr:2.522730
+43rd:Garfield:3.435190
+43rd:Columbus Ave:7.050730
+35th:Archer:1.828890
+35th:Ashland:1.824260
+35th:Dr Martin L King Jr:2.508100
+35th:26th:2.491860
+35th:Damen:2.555980
+35th:Western:3.338370
+35th:Cottage Grove:3.316870
+35th:Dan Ryan Expy:1.485520
+Archer:16th:1.414320
+Archer:26th:1.901230
+16th:Harrison:1.604180
+16th:Jefferson:0.873829
+Harrison:Halsted:0.402488
+Harrison:Van Buren:0.894035
+Harrison:Canal:0.616629
+Halsted:Wacker:0.854750
+Halsted:Van Buren:0.885306
+Halsted:Grand:1.471970
+Wacker:Van Buren:0.143293
+Wacker:Lake:0.850114
+Wacker:Jackson:0.394203
+LakeShore Dr:Michigan:0.849202
+LakeShore Dr:Canal:1.838950
+LakeShore Dr:State:0.864895
+LakeShore Dr:Michigain:0.797122
+LakeShore Dr:Balbo:0.018748
+Michigan:Ohio:2.174900
+Michigan:Canal:0.994159
+Michigan:State:0.162503
+Michigan:Balbo:0.833877
+Michigan:Columbus:2.071590
+Canal:State:0.984626
+State:Congress:0.110123
+State:Jackson:0.540105
+State:Michigain:0.487374
+State:Balbo:0.851892
+State:Van Buren:0.786439
+Narragansett:Austin:0.830715
+Narragansett:Mobile:0.204386
+Austin:Central:0.819294
+Austin:Laramie:1.644930
+Austin:Mobile:0.627942
+Central:Laramie:0.825640
+Central:Cicero:1.648970
+Central:Mobile:1.446150
+Laramie:Cicero:0.823363
+Laramie:Mobile:2.271480
+Cicero:Western:5.535280
+Cicero:72nd:4.070280
+Cicero:Mobile:3.094470
+Damen:Western:0.814312
+Damen:Ashland:0.792146
+Damen:63rd:5.442390
+Damen:59th:4.729970
+Damen:55th:4.053600
+Damen:26th:4.949800
+Damen:Ohio:8.792300
+Damen:Trumball:4.365920
+Western:Ashland:1.606450
+Western:63rd:5.853670
+Western:59th:5.196820
+Western:55th:4.588400
+Ashland:Dan Ryan Expy:2.901360
+Ashland:67th:5.904540
+Ashland:63rd:5.130530
+Ashland:59th:4.369780
+Ashland:55th:3.629690
+Ashland:18th:5.583180
+Ashland:26th:4.282130
+Ashland:Trumball:4.940130
+Dan Ryan Expy:Dr Martin L King Jr:1.119750
+Dan Ryan Expy:Cottage Grove:1.956710
+Dan Ryan Expy:67th:5.841240
+Dan Ryan Expy:63rd:5.054940
+Dan Ryan Expy:59th:4.277700
+Dan Ryan Expy:55th:3.515060
+Dan Ryan Expy:18th:3.953220
+Dan Ryan Expy:Garfield:3.472580
+Dan Ryan Expy:Oakwood:2.486090
+Dr Martin L King Jr:Cottage Grove:0.837015
+Dr Martin L King Jr:Oakwood:1.368470
+Dr Martin L King Jr:Stevenson Expy:2.790520
+Cottage Grove:57th:3.976280
+Cottage Grove:18th:3.855950
+Cottage Grove:26th:2.761810
+Cottage Grove:Garfield:3.351640
+Cottage Grove:Oakwood:0.541982
+Cottage Grove:I-55 Expy:2.812230
+Cottage Grove:Stevenson Expy:2.812230
+Cottage Grove:18TH:3.849200
+107th:112th:1.004920
+107th:103rd:0.799600
+107th:99th:1.604740
+107th:130th:6.729570
+107th:127th:6.360630
+107th:Stony Island:10.372700
+107th:Lake Shore Dr:10.294600
+107th:111th:6.941900
+107th:91st:7.614750
+107th:83rd:8.432680
+107th:79th:8.924420
+107th:76th:9.319510
+107th:71st:10.028000
+107th:67th:10.629100
+107th:63rd:11.256600
+107th:59th:11.905700
+107th:55th:12.573700
+107th:57th:10.322300
+107th:Indiana:6.378870
+107th:I-94 Expy:5.173200
+107th:Torrence:4.661850
+107th:Indianapolis:2.433920
+107th:96th:3.053980
+107th:75th:6.779610
+107th:Woodlawn:3.727480
+107th:Jeffery:2.708400
+107th:Wentworth:6.170440
+107th:Monterey:9.257370
+107th:Vincennes:8.649530
+107th:Stewart:6.150430
+107th:Bishop Ford Expy:3.380730
+107th:Garfield:11.408500
+107th:Chicago Skyway:4.077880
+107th:Oakwood:14.232100
+107th:Columbus Ave:12.100200
+112th:103rd:1.804520
+112th:99th:2.609650
+112th:130th:6.085710
+112th:127th:5.758460
+112th:Stony Island:11.362000
+112th:Lake Shore Dr:11.288300
+112th:111th:6.885530
+112th:91st:8.083540
+112th:83rd:9.040510
+112th:79th:9.586160
+112th:76th:10.015900
+112th:71st:10.773200
+112th:67th:11.406400
+112th:63rd:12.060900
+112th:59th:12.732900
+112th:55th:13.420300
+112th:57th:11.307000
+112th:Indiana:5.776700
+112th:I-94 Expy:4.315220
+112th:Torrence:3.656930
+112th:Indianapolis:3.088670
+112th:96th:3.852970
+112th:75th:7.741590
+112th:Woodlawn:4.433870
+112th:Jeffery:3.626300
+112th:Wentworth:6.622790
+112th:Monterey:9.210970
+112th:Vincennes:8.602160
+112th:Stewart:6.084800
+112th:Bishop Ford Expy:3.252690
+112th:Garfield:12.336700
+112th:Chicago Skyway:5.070190
+112th:Columbus Ave:12.674800
+103rd:99th:0.805140
+103rd:130th:7.300770
+103rd:127th:6.907470
+103rd:Stony Island:9.587920
+103rd:Lake Shore Dr:9.505730
+103rd:111th:7.089520
+103rd:91st:7.319830
+103rd:83rd:8.006900
+103rd:79th:8.446880
+103rd:76th:8.808500
+103rd:71st:9.469720
+103rd:67th:10.040000
+103rd:63rd:10.641400
+103rd:59th:11.268500
+103rd:55th:11.918000
+103rd:57th:9.541860
+103rd:Indiana:6.925520
+103rd:I-94 Expy:5.889440
+103rd:Torrence:5.461450
+103rd:Indianapolis:2.118310
+103rd:96th:2.525100
+103rd:75th:6.024400
+103rd:Woodlawn:3.279210
+103rd:Jeffery:2.037950
+103rd:Wentworth:5.909250
+103rd:Monterey:9.372020
+103rd:Vincennes:8.770280
+103rd:Stewart:6.317970
+103rd:Bishop Ford Expy:3.681300
+103rd:Garfield:10.680100
+103rd:Chicago Skyway:3.293910
+103rd:Oakwood:13.455000
+103rd:Columbus Ave:11.685100
+99th:130th:7.914460
+99th:127th:7.502460
+99th:Stony Island:8.799880
+99th:Lake Shore Dr:8.712900
+99th:111th:7.321530
+99th:91st:7.099470
+99th:83rd:7.636750
+99th:79th:8.015880
+99th:76th:8.337830
+99th:71st:8.942780
+99th:67th:9.476100
+99th:63rd:10.046400
+99th:59th:10.647500
+99th:55th:11.274900
+99th:57th:8.758950
+99th:Indiana:7.520240
+99th:I-94 Expy:6.629000
+99th:Torrence:6.266590
+99th:Indianapolis:2.083950
+99th:96th:2.169650
+99th:75th:5.276210
+99th:Woodlawn:2.977970
+99th:Jeffery:1.494900
+99th:Wentworth:5.745100
+99th:Monterey:9.551520
+99th:Vincennes:8.960190
+99th:Stewart:6.578910
+99th:Bishop Ford Expy:4.118880
+99th:Garfield:9.956640
+99th:Chicago Skyway:2.513770
+99th:Oakwood:12.674700
+99th:Columbus Ave:11.306700
+Oriole:Harlem:0.806067
+Oriole:Caldwell:2.271720
+Oriole:Lehigh:3.546540
+Oriole:Crawford:7.248270
+Oriole:Kedzie:8.863220
+Oriole:California:9.632370
+Oriole:Ridge:11.010300
+Oriole:Hollywood:13.239300
+Oriole:Devon:12.985200
+Oriole:Pratt:12.871700
+Oriole:Touhy:12.646700
+Oriole:Montrose:7.619190
+Oriole:Lawrence:6.678130
+Oriole:Foster:5.654840
+Oriole:Bryn Mawr:4.702350
+Oriole:Peterson:3.756610
+Oriole:Oak Park:3.978310
+Oriole:Nagle:4.567110
+Oriole:Edens Expy:5.860040
+Oriole:Mendota:2.906020
+Oriole:Pulaski:7.621970
+Oriole:Central Park:8.391350
+Oriole:Jersey:9.004700
+Oriole:Pacific:6.642640
+Oriole:Sheridan:14.784400
+Oriole:Sunnyside:7.888970
+Oriole:Kennedy Expy:3.439790
+Oriole:Cumberland:6.787460
+Harlem:Caldwell:1.465730
+Harlem:Lehigh:2.740730
+Harlem:Crawford:6.442620
+Harlem:Kedzie:8.057540
+Harlem:California:8.826630
+Harlem:Ridge:10.204600
+Harlem:Hollywood:12.460600
+Harlem:Devon:12.188400
+Harlem:Pratt:12.068700
+Harlem:Touhy:11.840900
+Harlem:Addison:14.835200
+Harlem:Irving Park:14.448300
+Harlem:Montrose:7.124580
+Harlem:Lawrence:6.172320
+Harlem:Foster:5.133880
+Harlem:Bryn Mawr:4.162720
+Harlem:Peterson:3.189310
+Harlem:Oak Park:3.746620
+Harlem:Nagle:4.235440
+Harlem:Edens Expy:5.144360
+Harlem:Mendota:2.144980
+Harlem:Pulaski:6.870530
+Harlem:Central Park:7.630300
+Harlem:Jersey:8.237560
+Harlem:Pacific:6.824090
+Harlem:Sheridan:14.072400
+Harlem:Clarendon:14.427600
+Harlem:Sunnyside:7.349310
+Harlem:Kennedy Expy:3.914780
+Harlem:Cumberland:7.057530
+Caldwell:Lehigh:1.275190
+Caldwell:Crawford:4.977150
+Caldwell:Kedzie:6.592000
+Caldwell:California:7.361010
+Caldwell:Ridge:8.738940
+Caldwell:Hollywood:11.047000
+Caldwell:Devon:10.738600
+Caldwell:Pratt:10.607300
+Caldwell:Touhy:10.375100
+Caldwell:Diversey:14.536900
+Caldwell:Belmont:14.045100
+Caldwell:Addison:13.581800
+Caldwell:Irving Park:13.158600
+Caldwell:Montrose:6.365830
+Caldwell:Lawrence:5.417220
+Caldwell:Foster:4.387570
+Caldwell:Bryn Mawr:3.433240
+Caldwell:Peterson:2.491550
+Caldwell:Oak Park:3.730730
+Caldwell:Nagle:3.968570
+Caldwell:Edens Expy:3.916900
+Caldwell:Mendota:0.947873
+Caldwell:Pulaski:5.531370
+Caldwell:Central Park:6.264470
+Caldwell:Jersey:6.855590
+Caldwell:Pacific:7.348100
+Caldwell:Sheridan:12.792500
+Caldwell:Clarendon:13.137600
+Caldwell:Sunnyside:6.487890
+Caldwell:Kennedy Expy:4.985010
+Caldwell:Cumberland:7.719610
+Lehigh:Crawford:3.701960
+Lehigh:Kedzie:5.316840
+Lehigh:California:6.085900
+Lehigh:Ridge:7.463840
+Lehigh:Hollywood:9.820510
+Lehigh:Devon:9.476360
+Lehigh:Pratt:9.334570
+Lehigh:Touhy:9.100200
+Lehigh:Armitage:14.668700
+Lehigh:Fullerton:14.090900
+Lehigh:Diversey:13.537400
+Lehigh:Belmont:13.010600
+Lehigh:Addison:12.511600
+Lehigh:Irving Park:12.053400
+Lehigh:Montrose:5.896740
+Lehigh:Lawrence:4.993370
+Lehigh:Foster:4.040050
+Lehigh:Bryn Mawr:3.204430
+Lehigh:Peterson:2.471850
+Lehigh:Oak Park:4.133960
+Lehigh:Nagle:4.135420
+Lehigh:Edens Expy:3.002740
+Lehigh:Mendota:1.061000
+Lehigh:Pulaski:4.415360
+Lehigh:Central Park:5.107010
+Lehigh:Jersey:5.674680
+Lehigh:Washington:14.955700
+Lehigh:Pacific:7.972020
+Lehigh:Sheridan:11.698100
+Lehigh:Clarendon:12.032100
+Lehigh:Sunnyside:5.906440
+Lehigh:Kennedy Expy:6.037320
+Lehigh:Elston:14.506700
+Lehigh:Cumberland:8.438170
+Crawford:Kedzie:1.614970
+Crawford:California:2.384290
+Crawford:Ridge:3.762230
+Crawford:Hollywood:6.374470
+Crawford:Devon:5.846780
+Crawford:Pratt:5.647380
+Crawford:Touhy:5.399220
+Crawford:Grand:14.977500
+Crawford:Division:13.734400
+Crawford:Armitage:12.327400
+Crawford:Fullerton:11.641800
+Crawford:Diversey:10.973800
+Crawford:Belmont:10.326200
+Crawford:Addison:9.698370
+Crawford:Irving Park:9.108180
+Crawford:Milwaukee:14.169200
+Crawford:Montrose:6.052100
+Crawford:Lawrence:5.537250
+Crawford:Foster:5.131960
+Crawford:Bryn Mawr:4.935410
+Crawford:Peterson:4.930170
+Crawford:Oak Park:6.693740
+Crawford:Nagle:6.288380
+Crawford:Clark:13.523800
+Crawford:Stockton:13.564100
+Crawford:Edens Expy:3.021970
+Crawford:Mendota:4.497600
+Crawford:Pulaski:2.397870
+Crawford:Central Park:2.520150
+Crawford:Jersey:2.779260
+Crawford:Washington:14.418900
+Crawford:Pacific:10.482400
+Crawford:Sheridan:8.809320
+Crawford:Clarendon:9.086520
+Crawford:Sunnyside:5.702290
+Crawford:Kennedy Expy:9.413720
+Crawford:Elston:12.477600
+Crawford:Cumberland:11.112500
+Kedzie:California:0.769543
+Kedzie:Ridge:2.147330
+Kedzie:Hollywood:4.999360
+Kedzie:Devon:4.309350
+Kedzie:Pratt:4.050790
+Kedzie:Touhy:3.784600
+Kedzie:Grand:14.338800
+Kedzie:Division:13.038500
+Kedzie:Armitage:11.550000
+Kedzie:Fullerton:10.817500
+Kedzie:Diversey:10.097500
+Kedzie:Belmont:9.392180
+Kedzie:Addison:8.699490
+Kedzie:Irving Park:8.038460
+Kedzie:LaSalle:14.261600
+Kedzie:Milwaukee:13.571000
+Kedzie:Montrose:6.801190
+Kedzie:Lawrence:6.476520
+Kedzie:Foster:6.281410
+Kedzie:Bryn Mawr:6.262730
+Kedzie:Peterson:6.397530
+Kedzie:Oak Park:8.101420
+Kedzie:Nagle:7.621130
+Kedzie:Clark:12.656700
+Kedzie:Stockton:12.686800
+Kedzie:Kinzie:14.650400
+Kedzie:Orleans:14.544700
+Kedzie:Racine:14.963500
+Kedzie:Ogden:14.667900
+Kedzie:1550 West:14.753600
+Kedzie:Edens Expy:4.226860
+Kedzie:Mendota:6.097460
+Kedzie:Pulaski:2.904840
+Kedzie:Central Park:2.535430
+Kedzie:Jersey:2.393740
+Kedzie:Ohio:14.999900
+Kedzie:Lake Shore Dr Michigan Entrance Ramp:14.197600
+Kedzie:Lake Shore Dr Michigan Exit Ramp:14.178600
+Kedzie:Washington:14.498400
+Kedzie:Pacific:11.787600
+Kedzie:Sheridan:7.785030
+Kedzie:Clarendon:8.017060
+Kedzie:Oak St:14.351700
+Kedzie:Sunnyside:6.347700
+Kedzie:Kennedy Expy:10.958400
+Kedzie:Elston:11.868000
+Kedzie:Cumberland:12.456000
+California:Ridge:1.377970
+California:Hollywood:4.417190
+California:Devon:3.610650
+California:Pratt:3.301610
+California:Touhy:3.015060
+California:Grand:14.111100
+California:Division:12.786900
+California:Armitage:11.263500
+California:Fullerton:10.510400
+California:Diversey:9.767040
+California:Belmont:9.035300
+California:Addison:8.311830
+California:Irving Park:7.615950
+California:Illinois:14.976900
+California:LaSalle:13.964400
+California:Milwaukee:13.367200
+California:Montrose:7.275370
+California:Lawrence:7.026560
+California:Foster:6.907810
+California:Bryn Mawr:6.948230
+California:Peterson:7.126380
+California:Oak Park:8.806230
+California:Nagle:8.301890
+California:Columbus:14.973300
+California:Clark:12.317100
+California:Stockton:12.341600
+California:Kinzie:14.415100
+California:Orleans:14.273700
+California:Fairbanks:14.812500
+California:Racine:14.787100
+California:Ogden:14.516800
+California:1550 West:14.610100
+California:Edens Expy:4.895580
+California:Mendota:6.864340
+California:Pulaski:3.414820
+California:Central Park:2.899570
+California:Jersey:2.592680
+California:Ohio:14.680900
+California:Lake Shore Dr Michigan Entrance Ramp:13.857900
+California:Lake Shore Dr Michigan Exit Ramp:13.840600
+California:Lake:14.973300
+California:Franklin:14.900300
+California:Washington:14.621300
+California:Pacific:12.446700
+California:Sheridan:7.391390
+California:Clarendon:7.594910
+California:Oak St:13.997400
+California:Sunnyside:6.788120
+California:Kennedy Expy:11.706500
+California:Elston:11.667200
+California:Cumberland:13.128600
+Ridge:Hollywood:3.525290
+Ridge:Devon:2.442710
+Ridge:Pratt:1.984230
+Ridge:Touhy:1.637670
+Ridge:Grand:13.764700
+Ridge:Division:12.406500
+Ridge:Armitage:10.832100
+Ridge:Fullerton:10.048400
+Ridge:Diversey:9.270040
+Ridge:Belmont:8.497810
+Ridge:Addison:7.726020
+Ridge:Irving Park:6.973740
+Ridge:Illinois:14.436900
+Ridge:LaSalle:13.489800
+Ridge:Milwaukee:13.070500
+Ridge:Montrose:8.211140
+Ridge:Lawrence:8.079140
+Ridge:Foster:8.073310
+Ridge:Bryn Mawr:8.198920
+Ridge:Peterson:8.439510
+Ridge:Oak Park:10.078900
+Ridge:Nagle:9.539670
+Ridge:Columbus:14.433900
+Ridge:Clark:11.775000
+Ridge:Stockton:11.788700
+Ridge:Kinzie:14.052700
+Ridge:Orleans:13.846000
+Ridge:Fairbanks:14.267200
+Ridge:Racine:14.530500
+Ridge:Ogden:14.308400
+Ridge:1550 West:14.415000
+Ridge:Edens Expy:6.138130
+Ridge:Mendota:8.235930
+Ridge:Pulaski:4.495850
+Ridge:Central Park:3.838130
+Ridge:Jersey:3.358300
+Ridge:Ohio:14.160600
+Ridge:Lake Shore Dr Michigan Entrance Ramp:13.304200
+Ridge:Lake Shore Dr Michigan Exit Ramp:13.290100
+Ridge:Lake:14.564800
+Ridge:Franklin:14.477600
+Ridge:Washington:14.902100
+Ridge:Pacific:13.638300
+Ridge:Sheridan:6.812510
+Ridge:Clarendon:6.953850
+Ridge:Grand Ave:14.526500
+Ridge:Oak St:13.415000
+Ridge:Sunnyside:7.680490
+Ridge:Kennedy Expy:13.044300
+Ridge:Elston:11.391600
+Ridge:Cumberland:14.340900
+City Boundary:Ridgeland:3.643120
+City Boundary:95th:14.577500
+City Boundary:87th:12.986200
+City Boundary:Stony Island:14.453600
+City Boundary:Lake Shore Dr:14.731000
+City Boundary:Grand:8.822530
+City Boundary:Division:9.562730
+City Boundary:Armitage:10.600600
+City Boundary:Fullerton:11.169000
+City Boundary:Diversey:11.765000
+City Boundary:Belmont:12.384100
+City Boundary:Addison:13.032600
+City Boundary:Irving Park:13.691500
+City Boundary:83rd:14.371700
+City Boundary:79th:13.692200
+City Boundary:76th:13.195300
+City Boundary:71st:12.385200
+City Boundary:67th:11.761000
+City Boundary:63rd:11.160300
+City Boundary:59th:10.587800
+City Boundary:55th:10.047400
+City Boundary:Randolph:10.517700
+City Boundary:Illinois:10.827700
+City Boundary:LaSalle:10.185400
+City Boundary:Milwaukee:8.579060
+City Boundary:Congress:9.661630
+City Boundary:Jackson:9.378150
+City Boundary:Michigain:10.001300
+City Boundary:57th:14.279900
+City Boundary:Montrose:12.225200
+City Boundary:Lawrence:13.082300
+City Boundary:Foster:14.027500
+City Boundary:Bryn Mawr:14.919800
+City Boundary:Oak Park:14.939500
+City Boundary:Nagle:14.450900
+City Boundary:Columbus:10.820200
+City Boundary:Clark:11.192200
+City Boundary:Stockton:11.287400
+City Boundary:Kinzie:8.917270
+City Boundary:Orleans:9.637430
+City Boundary:Fairbanks:10.890300
+City Boundary:Racine:7.709650
+City Boundary:Ogden:7.297950
+City Boundary:1550 West:7.130290
+City Boundary:Kostner:0.412706
+City Boundary:18th:10.190700
+City Boundary:Monroe:10.614200
+City Boundary:Balbo:10.395600
+City Boundary:26th:9.633310
+City Boundary:Ohio:10.609800
+City Boundary:Lake Shore Dr Michigan Entrance Ramp:11.042500
+City Boundary:Lake Shore Dr Michigan Exit Ramp:11.009100
+City Boundary:Van Buren:8.977760
+City Boundary:Lake:9.328910
+City Boundary:Franklin:9.495830
+City Boundary:Garfield:12.026500
+City Boundary:Washington:3.592620
+City Boundary:Pacific:13.350100
+City Boundary:Sheridan:13.475100
+City Boundary:Clarendon:13.695400
+City Boundary:Grand Ave:11.311100
+City Boundary:Oak St:11.342000
+City Boundary:Sunnyside:12.361200
+City Boundary:72nd:9.936290
+City Boundary:Elston:9.214590
+City Boundary:Jefferson:8.248700
+City Boundary:Cumberland:13.810500
+City Boundary:Trumball:2.347950
+City Boundary:Oakwood:11.865600
+City Boundary:I-55 Expy:10.494900
+City Boundary:Stevenson Expy:10.494900
+City Boundary:Columbus Ave:11.254400
+City Boundary:18TH:10.220900
+City Boundary:Mobile:7.320860
+Ridgeland:95th:14.978000
+Ridgeland:87th:13.430300
+Ridgeland:Grand:12.118700
+Ridgeland:Division:12.658900
+Ridgeland:Armitage:13.453500
+Ridgeland:Fullerton:13.901600
+Ridgeland:Diversey:14.380800
+Ridgeland:Belmont:14.887400
+Ridgeland:71st:14.950400
+Ridgeland:67th:14.434800
+Ridgeland:63rd:13.947100
+Ridgeland:59th:13.490500
+Ridgeland:55th:13.067600
+Ridgeland:Randolph:13.994000
+Ridgeland:Illinois:14.238400
+Ridgeland:LaSalle:13.478700
+Ridgeland:Milwaukee:11.739500
+Ridgeland:Congress:13.202600
+Ridgeland:Jackson:12.889000
+Ridgeland:Michigain:13.525500
+Ridgeland:Montrose:12.427200
+Ridgeland:Lawrence:13.129400
+Ridgeland:Foster:13.923200
+Ridgeland:Bryn Mawr:14.688100
+Ridgeland:Oak Park:14.243700
+Ridgeland:Nagle:13.917200
+Ridgeland:Columbus:14.230600
+Ridgeland:Clark:14.256000
+Ridgeland:Stockton:14.356700
+Ridgeland:Kinzie:12.259700
+Ridgeland:Orleans:12.968200
+Ridgeland:Fairbanks:14.283300
+Ridgeland:Racine:11.083800
+Ridgeland:Ogden:10.614200
+Ridgeland:1550 West:10.456400
+Ridgeland:Kostner:4.055800
+Ridgeland:18th:13.827800
+Ridgeland:Monroe:14.127600
+Ridgeland:Balbo:13.966700
+Ridgeland:26th:13.269700
+Ridgeland:Ohio:13.990400
+Ridgeland:Lake Shore Dr Michigan Entrance Ramp:14.323900
+Ridgeland:Lake Shore Dr Michigan Exit Ramp:14.288400
+Ridgeland:Van Buren:12.492200
+Ridgeland:Lake:12.745500
+Ridgeland:Franklin:12.904100
+Ridgeland:Washington:5.875310
+Ridgeland:Pacific:11.805200
+Ridgeland:Grand Ave:14.729800
+Ridgeland:Oak St:14.639600
+Ridgeland:Sunnyside:12.726000
+Ridgeland:72nd:10.487900
+Ridgeland:Elston:12.047700
+Ridgeland:Jefferson:11.836900
+Ridgeland:Cumberland:12.083400
+Ridgeland:Trumball:5.990710
+Ridgeland:I-55 Expy:14.136800
+Ridgeland:Stevenson Expy:14.136800
+Ridgeland:Columbus Ave:13.175600
+Ridgeland:18TH:13.858000
+Ridgeland:Mobile:6.515830
+95th:87th:1.591720
+95th:130th:12.218200
+95th:127th:12.016000
+95th:111th:8.706610
+95th:91st:8.108250
+95th:83rd:8.421570
+95th:79th:8.687370
+95th:76th:8.930550
+95th:71st:9.411140
+95th:67th:9.852150
+95th:63rd:10.338700
+95th:59th:10.863600
+95th:55th:11.421300
+95th:Indiana:12.009400
+95th:I-94 Expy:14.279800
+95th:Kostner:14.593200
+95th:75th:13.549400
+95th:Woodlawn:12.109900
+95th:Jeffery:13.717400
+95th:Wentworth:9.296090
+95th:Monterey:6.614780
+95th:Vincennes:7.144150
+95th:Stewart:9.460430
+95th:Bishop Ford Expy:12.170300
+95th:Garfield:13.262500
+95th:Chicago Skyway:14.375900
+95th:72nd:4.644360
+95th:Trumball:14.848700
+95th:Columbus Ave:6.465980
+95th:Mobile:8.661370
+87th:130th:13.188100
+87th:127th:12.942900
+87th:Stony Island:14.536800
+87th:Lake Shore Dr:14.793600
+87th:111th:9.411830
+87th:91st:8.101200
+87th:83rd:8.102010
+87th:79th:8.222550
+87th:76th:8.364650
+87th:71st:8.692280
+87th:67th:9.026450
+87th:63rd:9.419370
+87th:59th:9.862950
+87th:55th:10.350400
+87th:57th:14.267400
+87th:Indiana:12.938100
+87th:Kostner:13.003800
+87th:75th:13.155900
+87th:Woodlawn:12.211500
+87th:Jeffery:13.805200
+87th:Wentworth:9.424000
+87th:Monterey:7.524650
+87th:Vincennes:7.990620
+87th:Stewart:10.115600
+87th:Bishop Ford Expy:12.690900
+87th:Garfield:12.351600
+87th:Chicago Skyway:14.280200
+87th:72nd:3.052710
+87th:Trumball:13.286200
+87th:Columbus Ave:5.545470
+87th:Mobile:7.195900
+130th:127th:0.479540
+130th:111th:4.212080
+130th:91st:8.026460
+130th:83rd:9.609130
+130th:79th:10.404200
+130th:76th:10.999300
+130th:71st:11.997900
+130th:67th:12.796400
+130th:63rd:13.596800
+130th:59th:14.397800
+130th:57th:14.957800
+130th:Indiana:0.466809
+130th:I-94 Expy:2.449060
+130th:Torrence:4.900010
+130th:Indianapolis:9.130450
+130th:96th:9.778290
+130th:75th:11.407400
+130th:Woodlawn:7.261730
+130th:Jeffery:7.884640
+130th:Wentworth:7.029330
+130th:Monterey:5.663780
+130th:Vincennes:5.229730
+130th:Stewart:3.889110
+130th:Bishop Ford Expy:4.036720
+130th:Chicago Skyway:9.584790
+130th:Columbus Ave:12.359300
+127th:Stony Island:14.626400
+127th:Lake Shore Dr:14.661700
+127th:111th:3.836920
+127th:91st:7.587390
+127th:83rd:9.162020
+127th:79th:9.954250
+127th:76th:10.547500
+127th:71st:11.543600
+127th:67th:12.340400
+127th:63rd:13.139500
+127th:59th:13.939300
+127th:55th:14.740200
+127th:57th:14.478600
+127th:Indiana:0.018279
+127th:I-94 Expy:2.415060
+127th:Torrence:4.858440
+127th:Indianapolis:8.775920
+127th:96th:9.400350
+127th:75th:10.930400
+127th:Woodlawn:6.786910
+127th:Jeffery:7.432930
+127th:Wentworth:6.566970
+127th:Monterey:5.424150
+127th:Vincennes:4.958720
+127th:Stewart:3.464730
+127th:Bishop Ford Expy:3.577590
+127th:Garfield:14.599900
+127th:Chicago Skyway:9.128570
+127th:Columbus Ave:11.962600
+Stony Island:Lake Shore Dr:0.298957
+Stony Island:Grand:12.169600
+Stony Island:Division:13.446500
+Stony Island:Armitage:14.958000
+Stony Island:111th:12.153900
+Stony Island:91st:8.646710
+Stony Island:83rd:7.398210
+Stony Island:79th:6.834380
+Stony Island:76th:6.446070
+Stony Island:71st:5.878650
+Stony Island:67th:5.518990
+Stony Island:63rd:5.259180
+Stony Island:59th:5.115620
+Stony Island:55th:5.098600
+Stony Island:Randolph:10.661200
+Stony Island:Illinois:11.356000
+Stony Island:LaSalle:12.272400
+Stony Island:Milwaukee:12.980900
+Stony Island:Congress:9.925490
+Stony Island:Jackson:10.327000
+Stony Island:Michigain:10.108200
+Stony Island:57th:0.270007
+Stony Island:Columbus:11.358200
+Stony Island:Clark:14.000000
+Stony Island:Stockton:13.994100
+Stony Island:Kinzie:11.848400
+Stony Island:Orleans:11.946400
+Stony Island:Fairbanks:11.530200
+Stony Island:Racine:11.721900
+Stony Island:Ogden:12.141300
+Stony Island:1550 West:12.108100
+Stony Island:Indiana:14.640000
+Stony Island:I-94 Expy:14.759700
+Stony Island:Torrence:14.979200
+Stony Island:Kostner:14.089900
+Stony Island:18th:7.771920
+Stony Island:Monroe:10.221600
+Stony Island:Balbo:9.400570
+Stony Island:Indianapolis:9.742620
+Stony Island:96th:8.891770
+Stony Island:75th:3.753280
+Stony Island:26th:6.756210
+Stony Island:Ohio:11.612000
+Stony Island:Lake Shore Dr Michigan Entrance Ramp:12.493300
+Stony Island:Lake Shore Dr Michigan Exit Ramp:12.503600
+Stony Island:Van Buren:10.342700
+Stony Island:Lake:11.253300
+Stony Island:Franklin:11.320900
+Stony Island:Woodlawn:7.891010
+Stony Island:Jeffery:7.831270
+Stony Island:Wentworth:8.689570
+Stony Island:Monterey:13.309900
+Stony Island:Vincennes:12.968700
+Stony Island:Stewart:11.859300
+Stony Island:Bishop Ford Expy:11.202800
+Stony Island:Garfield:2.655380
+Stony Island:Chicago Skyway:6.295000
+Stony Island:Grand Ave:11.334800
+Stony Island:Oak St:12.425000
+Stony Island:72nd:13.542400
+Stony Island:Elston:14.668600
+Stony Island:Jefferson:9.596380
+Stony Island:Trumball:12.440900
+Stony Island:Oakwood:3.899210
+Stony Island:I-55 Expy:6.721560
+Stony Island:Stevenson Expy:6.721560
+Stony Island:Columbus Ave:9.007050
+Stony Island:18TH:7.760930
+Lake Shore Dr:Grand:12.323700
+Lake Shore Dr:Division:13.589400
+Lake Shore Dr:111th:12.253700
+Lake Shore Dr:91st:8.800740
+Lake Shore Dr:83rd:7.584310
+Lake Shore Dr:79th:7.039010
+Lake Shore Dr:76th:6.665410
+Lake Shore Dr:71st:6.123400
+Lake Shore Dr:67th:5.783270
+Lake Shore Dr:63rd:5.540320
+Lake Shore Dr:59th:5.408780
+Lake Shore Dr:55th:5.397280
+Lake Shore Dr:Randolph:10.773500
+Lake Shore Dr:Illinois:11.462300
+Lake Shore Dr:LaSalle:12.397100
+Lake Shore Dr:Milwaukee:13.141500
+Lake Shore Dr:Congress:10.060800
+Lake Shore Dr:Jackson:10.468700
+Lake Shore Dr:Michigain:10.234000
+Lake Shore Dr:57th:0.552775
+Lake Shore Dr:Columbus:11.464600
+Lake Shore Dr:Clark:14.112700
+Lake Shore Dr:Stockton:14.104800
+Lake Shore Dr:Kinzie:12.000000
+Lake Shore Dr:Orleans:12.082300
+Lake Shore Dr:Fairbanks:11.635600
+Lake Shore Dr:Racine:11.899000
+Lake Shore Dr:Ogden:12.326000
+Lake Shore Dr:1550 West:12.296000
+Lake Shore Dr:Indiana:14.675600
+Lake Shore Dr:I-94 Expy:14.746000
+Lake Shore Dr:Torrence:14.916600
+Lake Shore Dr:Kostner:14.365800
+Lake Shore Dr:18th:7.904380
+Lake Shore Dr:Monroe:10.330900
+Lake Shore Dr:Balbo:9.516670
+Lake Shore Dr:Indianapolis:9.599550
+Lake Shore Dr:96th:8.737370
+Lake Shore Dr:75th:3.752390
+Lake Shore Dr:26th:6.926980
+Lake Shore Dr:Ohio:11.724400
+Lake Shore Dr:Lake Shore Dr Michigan Entrance Ramp:12.599600
+Lake Shore Dr:Lake Shore Dr Michigan Exit Ramp:12.610700
+Lake Shore Dr:Van Buren:10.494400
+Lake Shore Dr:Lake:11.395400
+Lake Shore Dr:Franklin:11.459100
+Lake Shore Dr:Woodlawn:7.905770
+Lake Shore Dr:Jeffery:7.785020
+Lake Shore Dr:Wentworth:8.798730
+Lake Shore Dr:Monterey:13.452600
+Lake Shore Dr:Vincennes:13.101200
+Lake Shore Dr:Stewart:11.941600
+Lake Shore Dr:Bishop Ford Expy:11.214900
+Lake Shore Dr:Garfield:2.954330
+Lake Shore Dr:Chicago Skyway:6.218120
+Lake Shore Dr:Grand Ave:11.428800
+Lake Shore Dr:Oak St:12.524000
+Lake Shore Dr:72nd:13.824900
+Lake Shore Dr:Elston:14.824800
+Lake Shore Dr:Jefferson:9.770930
+Lake Shore Dr:Trumball:12.707400
+Lake Shore Dr:Oakwood:4.037160
+Lake Shore Dr:I-55 Expy:6.856440
+Lake Shore Dr:Stevenson Expy:6.856440
+Lake Shore Dr:Columbus Ave:9.269600
+Lake Shore Dr:18TH:7.892430
+Hollywood:Devon:1.417290
+Hollywood:Pratt:2.233400
+Hollywood:Touhy:3.055420
+Hollywood:Grand:10.534000
+Hollywood:Division:9.152870
+Hollywood:Armitage:7.543130
+Hollywood:Fullerton:6.738670
+Hollywood:Diversey:5.936330
+Hollywood:Belmont:5.136590
+Hollywood:Addison:4.332060
+Hollywood:Irving Park:3.542510
+Hollywood:Randolph:11.699100
+Hollywood:Illinois:11.007700
+Hollywood:LaSalle:10.122300
+Hollywood:Milwaukee:9.914000
+Hollywood:Congress:12.502700
+Hollywood:Jackson:12.153500
+Hollywood:Michigain:12.277200
+Hollywood:Montrose:8.274860
+Hollywood:Lawrence:8.547490
+Hollywood:Foster:8.961770
+Hollywood:Bryn Mawr:9.446280
+Hollywood:Peterson:10.007100
+Hollywood:Oak Park:11.309200
+Hollywood:Nagle:10.624200
+Hollywood:Columbus:11.005200
+Hollywood:Clark:8.361340
+Hollywood:Stockton:8.366000
+Hollywood:Kinzie:10.799400
+Hollywood:Orleans:10.522100
+Hollywood:Fairbanks:10.835000
+Hollywood:Racine:11.406300
+Hollywood:Ogden:11.256000
+Hollywood:1550 West:11.380600
+Hollywood:Edens Expy:7.570110
+Hollywood:Mendota:10.335300
+Hollywood:18th:14.620000
+Hollywood:Monroe:12.139100
+Hollywood:Balbo:12.961500
+Hollywood:Pulaski:5.701590
+Hollywood:Central Park:4.897920
+Hollywood:Jersey:4.262530
+Hollywood:Ohio:10.748400
+Hollywood:Lake Shore Dr Michigan Entrance Ramp:9.870620
+Hollywood:Lake Shore Dr Michigan Exit Ramp:9.859070
+Hollywood:Van Buren:12.234800
+Hollywood:Lake:11.254700
+Hollywood:Franklin:11.153400
+Hollywood:Washington:12.740900
+Hollywood:Pacific:14.299100
+Hollywood:Sheridan:3.457990
+Hollywood:Clarendon:3.524290
+Hollywood:Grand Ave:11.068300
+Hollywood:Oak St:9.960600
+Hollywood:Sunnyside:7.675970
+Hollywood:Kennedy Expy:14.585100
+Hollywood:Elston:8.299320
+Hollywood:Jefferson:13.245100
+Hollywood:18TH:14.627800
+Devon:Pratt:0.816598
+Devon:Touhy:1.645880
+Devon:Grand:11.946800
+Devon:Division:10.564500
+Devon:Armitage:8.952610
+Devon:Fullerton:8.146570
+Devon:Diversey:7.342060
+Devon:Belmont:6.539240
+Devon:Addison:5.729850
+Devon:Irving Park:4.932430
+Devon:Randolph:13.070700
+Devon:Illinois:12.372200
+Devon:LaSalle:11.511900
+Devon:Milwaukee:11.330900
+Devon:Congress:13.893800
+Devon:Jackson:13.550900
+Devon:Michigain:13.661200
+Devon:Montrose:8.831770
+Devon:Lawrence:8.960630
+Devon:Foster:9.222840
+Devon:Bryn Mawr:9.574390
+Devon:Peterson:10.013000
+Devon:Oak Park:11.470600
+Devon:Nagle:10.835300
+Devon:Columbus:12.370000
+Devon:Clark:9.738170
+Devon:Stockton:9.738850
+Devon:Kinzie:12.209700
+Devon:Orleans:11.921900
+Devon:Fairbanks:12.198200
+Devon:Racine:12.823500
+Devon:Ogden:12.672400
+Devon:1550 West:12.796400
+Devon:Edens Expy:7.582620
+Devon:Mendota:10.115500
+Devon:Monroe:13.507200
+Devon:Balbo:14.335300
+Devon:Pulaski:5.731950
+Devon:Central Park:4.933820
+Devon:Jersey:4.301940
+Devon:Ohio:12.121200
+Devon:Lake Shore Dr Michigan Entrance Ramp:11.234900
+Devon:Lake Shore Dr Michigan Exit Ramp:11.224700
+Devon:Van Buren:13.638800
+Devon:Lake:12.656300
+Devon:Franklin:12.552300
+Devon:Washington:14.026900
+Devon:Pacific:14.711300
+Devon:Sheridan:4.868500
+Devon:Clarendon:4.915020
+Devon:Grand Ave:12.415500
+Devon:Oak St:11.312400
+Devon:Sunnyside:8.243770
+Devon:Kennedy Expy:14.646900
+Devon:Elston:9.715850
+Devon:Jefferson:14.656300
+Pratt:Touhy:0.837178
+Pratt:Grand:12.763000
+Pratt:Division:11.380600
+Pratt:Armitage:9.768170
+Pratt:Fullerton:8.961780
+Pratt:Diversey:8.156800
+Pratt:Belmont:7.353300
+Pratt:Addison:6.542840
+Pratt:Irving Park:5.743760
+Pratt:Randolph:13.872500
+Pratt:Illinois:13.171300
+Pratt:LaSalle:12.320900
+Pratt:Milwaukee:12.147300
+Pratt:Congress:14.703000
+Pratt:Jackson:14.362500
+Pratt:Michigain:14.467700
+Pratt:Montrose:9.205780
+Pratt:Lawrence:9.256490
+Pratt:Foster:9.432880
+Pratt:Bryn Mawr:9.706650
+Pratt:Peterson:10.071600
+Pratt:Oak Park:11.606300
+Pratt:Nagle:11.003500
+Pratt:Columbus:13.169200
+Pratt:Clark:10.542900
+Pratt:Stockton:10.542100
+Pratt:Kinzie:13.025400
+Pratt:Orleans:12.734300
+Pratt:Fairbanks:12.996800
+Pratt:Racine:13.639700
+Pratt:Ogden:13.486700
+Pratt:1550 West:13.610000
+Pratt:Edens Expy:7.673910
+Pratt:Mendota:10.041900
+Pratt:Monroe:14.307500
+Pratt:Pulaski:5.871330
+Pratt:Central Park:5.101080
+Pratt:Jersey:4.496900
+Pratt:Ohio:12.923700
+Pratt:Lake Shore Dr Michigan Entrance Ramp:12.034200
+Pratt:Lake Shore Dr Michigan Exit Ramp:12.024600
+Pratt:Van Buren:14.452500
+Pratt:Lake:13.469300
+Pratt:Franklin:13.364500
+Pratt:Washington:14.764500
+Pratt:Pacific:14.971200
+Pratt:Sheridan:5.684580
+Pratt:Clarendon:5.726580
+Pratt:Grand Ave:13.207500
+Pratt:Oak St:12.106800
+Pratt:Sunnyside:8.629390
+Pratt:Kennedy Expy:14.708900
+Pratt:Elston:10.530400
+Touhy:Grand:13.589400
+Touhy:Division:12.207900
+Touhy:Armitage:10.597000
+Touhy:Fullerton:9.791460
+Touhy:Diversey:8.987420
+Touhy:Belmont:8.184970
+Touhy:Addison:7.375730
+Touhy:Irving Park:6.577970
+Touhy:Randolph:14.709700
+Touhy:Illinois:14.008400
+Touhy:LaSalle:13.156500
+Touhy:Milwaukee:12.966200
+Touhy:Montrose:9.502510
+Touhy:Lawrence:9.471860
+Touhy:Foster:9.558380
+Touhy:Bryn Mawr:9.750080
+Touhy:Peterson:10.036800
+Touhy:Oak Park:11.641700
+Touhy:Nagle:11.075700
+Touhy:Columbus:14.006300
+Touhy:Clark:11.379700
+Touhy:Stockton:11.379100
+Touhy:Kinzie:13.853800
+Touhy:Orleans:13.567700
+Touhy:Fairbanks:13.833900
+Touhy:Racine:14.456400
+Touhy:Ogden:14.295500
+Touhy:1550 West:14.417000
+Touhy:Edens Expy:7.694100
+Touhy:Mendota:9.871990
+Touhy:Pulaski:5.967910
+Touhy:Central Park:5.242960
+Touhy:Jersey:4.683520
+Touhy:Ohio:13.760800
+Touhy:Lake Shore Dr Michigan Entrance Ramp:12.871400
+Touhy:Lake Shore Dr Michigan Exit Ramp:12.861700
+Touhy:Lake:14.302200
+Touhy:Franklin:14.198200
+Touhy:Sheridan:6.512140
+Touhy:Clarendon:6.560630
+Touhy:Grand Ave:14.043900
+Touhy:Oak St:12.943600
+Touhy:Sunnyside:8.942360
+Touhy:Kennedy Expy:14.655900
+Touhy:Elston:11.340700
+Grand:Division:1.385060
+Grand:Armitage:3.002360
+Grand:Fullerton:3.811520
+Grand:Diversey:4.619850
+Grand:Belmont:5.427340
+Grand:Addison:6.243230
+Grand:Irving Park:7.049330
+Grand:71st:14.010800
+Grand:67th:13.202100
+Grand:63rd:12.392700
+Grand:59th:11.583600
+Grand:55th:10.774600
+Grand:Randolph:2.349510
+Grand:Illinois:2.260320
+Grand:LaSalle:1.365000
+Grand:Milwaukee:0.878814
+Grand:Congress:2.388560
+Grand:Jackson:1.924710
+Grand:Michigain:2.392460
+Grand:57th:12.158700
+Grand:Montrose:11.739000
+Grand:Lawrence:12.660400
+Grand:Foster:13.673300
+Grand:Bryn Mawr:14.626900
+Grand:Nagle:14.970900
+Grand:Columbus:2.252110
+Grand:Clark:2.715240
+Grand:Stockton:2.783430
+Grand:Kinzie:0.341547
+Grand:Orleans:0.869690
+Grand:Fairbanks:2.253670
+Grand:Racine:1.196420
+Grand:Ogden:1.524580
+Grand:1550 West:1.692990
+Grand:Edens Expy:13.973400
+Grand:Kostner:8.464870
+Grand:18th:4.481690
+Grand:Monroe:2.715340
+Grand:Balbo:3.180760
+Grand:Pulaski:12.881700
+Grand:Central Park:12.487100
+Grand:Jersey:12.209600
+Grand:26th:5.440030
+Grand:Ohio:1.945490
+Grand:Lake Shore Dr Michigan Entrance Ramp:2.220410
+Grand:Lake Shore Dr Michigan Exit Ramp:2.186760
+Grand:Van Buren:1.831000
+Grand:Lake:1.070110
+Grand:Franklin:1.116640
+Grand:Garfield:11.047000
+Grand:Washington:6.581560
+Grand:Sheridan:7.078520
+Grand:Clarendon:7.064580
+Grand:Grand Ave:2.745730
+Grand:Oak St:2.525940
+Grand:Sunnyside:11.438300
+Grand:Elston:2.502850
+Grand:Jefferson:2.715260
+Grand:Trumball:6.852870
+Grand:Oakwood:8.291020
+Grand:I-55 Expy:5.498750
+Grand:Stevenson Expy:5.498750
+Grand:Columbus Ave:14.964500
+Grand:18TH:4.499270
+Division:Armitage:1.617310
+Division:Fullerton:2.426480
+Division:Diversey:3.234800
+Division:Belmont:4.042280
+Division:Addison:4.858180
+Division:Irving Park:5.664290
+Division:67th:14.587100
+Division:63rd:13.777600
+Division:59th:12.968600
+Division:55th:12.159500
+Division:Randolph:3.113950
+Division:Illinois:2.694400
+Division:LaSalle:1.474730
+Division:Milwaukee:1.021580
+Division:Congress:3.540970
+Division:Jackson:3.120850
+Division:Michigain:3.430010
+Division:57th:13.446600
+Division:Montrose:10.845900
+Division:Lawrence:11.741100
+Division:Foster:12.730800
+Division:Bryn Mawr:13.666800
+Division:Peterson:14.612900
+Division:Oak Park:14.856200
+Division:Nagle:14.105300
+Division:Columbus:2.687400
+Division:Clark:1.630620
+Division:Stockton:1.724780
+Division:Kinzie:1.649240
+Division:Orleans:1.540870
+Division:Fairbanks:2.595740
+Division:Racine:2.416070
+Division:Ogden:2.503990
+Division:1550 West:2.671480
+Division:Edens Expy:12.883100
+Division:Kostner:9.234510
+Division:18th:5.694780
+Division:Monroe:3.555830
+Division:Balbo:4.212940
+Division:Pulaski:11.699900
+Division:Central Park:11.265800
+Division:Jersey:10.957800
+Division:26th:6.759450
+Division:Ohio:2.329820
+Division:Lake Shore Dr Michigan Entrance Ramp:2.007690
+Division:Lake Shore Dr Michigan Exit Ramp:1.969660
+Division:Van Buren:3.125490
+Division:Lake:2.194150
+Division:Franklin:2.139680
+Division:Garfield:12.404700
+Division:Washington:6.896750
+Division:Sheridan:5.696050
+Division:Clarendon:5.679520
+Division:Grand Ave:3.074280
+Division:Oak St:2.336650
+Division:Sunnyside:10.498100
+Division:Elston:1.426350
+Division:Jefferson:4.092300
+Division:Trumball:7.782590
+Division:Oakwood:9.552350
+Division:I-55 Expy:6.735920
+Division:Stevenson Expy:6.735920
+Division:18TH:5.708940
+Armitage:Fullerton:0.809170
+Armitage:Diversey:1.617490
+Armitage:Belmont:2.424980
+Armitage:Addison:3.240870
+Armitage:Irving Park:4.046980
+Armitage:59th:14.585900
+Armitage:55th:13.776900
+Armitage:Randolph:4.402030
+Armitage:Illinois:3.817620
+Armitage:LaSalle:2.713970
+Armitage:Milwaukee:2.496240
+Armitage:Congress:5.033470
+Armitage:Jackson:4.649090
+Armitage:Michigain:4.861170
+Armitage:57th:14.968700
+Armitage:Montrose:9.956710
+Armitage:Lawrence:10.803900
+Armitage:Foster:11.751300
+Armitage:Bryn Mawr:12.655200
+Armitage:Peterson:13.573900
+Armitage:Oak Park:13.980300
+Armitage:Nagle:13.217100
+Armitage:Columbus:3.812610
+Armitage:Clark:1.407490
+Armitage:Stockton:1.491860
+Armitage:Kinzie:3.257300
+Armitage:Orleans:3.016470
+Armitage:Fairbanks:3.671260
+Armitage:Racine:3.981980
+Armitage:Ogden:3.970390
+Armitage:1550 West:4.124710
+Armitage:Edens Expy:11.697400
+Armitage:Mendota:14.679100
+Armitage:Kostner:10.305800
+Armitage:18th:7.186400
+Armitage:Monroe:4.857730
+Armitage:Balbo:5.608860
+Armitage:Pulaski:10.390900
+Armitage:Central Park:9.900890
+Armitage:Jersey:9.548980
+Armitage:26th:8.324520
+Armitage:Ohio:3.486720
+Armitage:Lake Shore Dr Michigan Entrance Ramp:2.791140
+Armitage:Lake Shore Dr Michigan Exit Ramp:2.763440
+Armitage:Van Buren:4.700690
+Armitage:Lake:3.732860
+Armitage:Franklin:3.647010
+Armitage:Garfield:13.994800
+Armitage:Washington:7.585070
+Armitage:Sheridan:4.085150
+Armitage:Clarendon:4.062230
+Armitage:Grand Ave:4.059040
+Armitage:Oak St:3.031030
+Armitage:Sunnyside:9.548380
+Armitage:Elston:1.406480
+Armitage:Jefferson:5.704410
+Armitage:Trumball:9.024320
+Armitage:Oakwood:11.058800
+Armitage:I-55 Expy:8.236440
+Armitage:Stevenson Expy:8.236440
+Armitage:18TH:7.197860
+Fullerton:Diversey:0.808322
+Fullerton:Belmont:1.615810
+Fullerton:Addison:2.431700
+Fullerton:Irving Park:3.237810
+Fullerton:55th:14.586000
+Fullerton:Randolph:5.118750
+Fullerton:Illinois:4.496030
+Fullerton:LaSalle:3.454770
+Fullerton:Milwaukee:3.284080
+Fullerton:Congress:5.806390
+Fullerton:Jackson:5.433940
+Fullerton:Michigain:5.616530
+Fullerton:Montrose:9.580180
+Fullerton:Lawrence:10.394700
+Fullerton:Foster:11.313200
+Fullerton:Bryn Mawr:12.194900
+Fullerton:Peterson:13.095000
+Fullerton:Oak Park:13.589800
+Fullerton:Nagle:12.822900
+Fullerton:Columbus:4.491740
+Fullerton:Clark:1.901290
+Fullerton:Stockton:1.955660
+Fullerton:Kinzie:4.064820
+Fullerton:Orleans:3.799150
+Fullerton:Fairbanks:4.339460
+Fullerton:Racine:4.777690
+Fullerton:Ogden:4.739980
+Fullerton:1550 West:4.889480
+Fullerton:Edens Expy:11.142200
+Fullerton:Mendota:14.144600
+Fullerton:Kostner:10.889900
+Fullerton:18th:7.952310
+Fullerton:Monroe:5.573130
+Fullerton:Balbo:6.348290
+Fullerton:Pulaski:9.768220
+Fullerton:Central Park:9.246330
+Fullerton:Jersey:8.868720
+Fullerton:26th:9.115180
+Fullerton:Ohio:4.183540
+Fullerton:Lake Shore Dr Michigan Entrance Ramp:3.413180
+Fullerton:Lake Shore Dr Michigan Exit Ramp:3.390330
+Fullerton:Van Buren:5.498570
+Fullerton:Lake:4.524060
+Fullerton:Franklin:4.431220
+Fullerton:Garfield:14.793100
+Fullerton:Washington:8.027120
+Fullerton:Sheridan:3.281080
+Fullerton:Clarendon:3.253070
+Fullerton:Grand Ave:4.687690
+Fullerton:Oak St:3.610100
+Fullerton:Sunnyside:9.140500
+Fullerton:Elston:1.976030
+Fullerton:Jefferson:6.512160
+Fullerton:Trumball:9.685180
+Fullerton:Oakwood:11.824700
+Fullerton:I-55 Expy:9.003520
+Fullerton:Stevenson Expy:9.003520
+Fullerton:18TH:7.962790
+Diversey:Belmont:0.807490
+Diversey:Addison:1.623380
+Diversey:Irving Park:2.429490
+Diversey:Randolph:5.858820
+Diversey:Illinois:5.211140
+Diversey:LaSalle:4.219950
+Diversey:Milwaukee:4.079440
+Diversey:Congress:6.587200
+Diversey:Jackson:6.224190
+Diversey:Michigain:6.384280
+Diversey:Montrose:9.259510
+Diversey:Lawrence:10.034400
+Diversey:Foster:10.917800
+Diversey:Bryn Mawr:11.772800
+Diversey:Peterson:12.650300
+Diversey:Oak Park:13.237600
+Diversey:Nagle:12.469200
+Diversey:Columbus:5.207410
+Diversey:Clark:2.560180
+Diversey:Stockton:2.594110
+Diversey:Kinzie:4.872050
+Diversey:Orleans:4.590200
+Diversey:Fairbanks:5.048320
+Diversey:Racine:5.576430
+Diversey:Ogden:5.520070
+Diversey:1550 West:5.665770
+Diversey:Edens Expy:10.620200
+Diversey:Mendota:13.637700
+Diversey:Kostner:11.500700
+Diversey:18th:8.725230
+Diversey:Monroe:6.310440
+Diversey:Balbo:7.102140
+Diversey:Pulaski:9.175280
+Diversey:Central Park:8.618700
+Diversey:Jersey:8.212540
+Diversey:26th:9.908000
+Diversey:Ohio:4.914140
+Diversey:Lake Shore Dr Michigan Entrance Ramp:4.100310
+Diversey:Lake Shore Dr Michigan Exit Ramp:4.081120
+Diversey:Van Buren:6.298490
+Diversey:Lake:5.319830
+Diversey:Franklin:5.222210
+Diversey:Washington:8.522690
+Diversey:Pacific:14.892400
+Diversey:Sheridan:2.481160
+Diversey:Clarendon:2.444750
+Diversey:Grand Ave:5.364230
+Diversey:Oak St:4.264030
+Diversey:Sunnyside:8.788690
+Diversey:Elston:2.671440
+Diversey:Jefferson:7.319380
+Diversey:Trumball:10.366400
+Diversey:Oakwood:12.595200
+Diversey:I-55 Expy:9.776580
+Diversey:Stevenson Expy:9.776580
+Diversey:18TH:8.734890
+Belmont:Addison:0.815894
+Belmont:Irving Park:1.622010
+Belmont:Randolph:6.614320
+Belmont:Illinois:5.949640
+Belmont:LaSalle:4.998080
+Belmont:Milwaukee:4.878150
+Belmont:Congress:7.373270
+Belmont:Jackson:7.017850
+Belmont:Michigain:7.160330
+Belmont:Montrose:8.999840
+Belmont:Lawrence:9.727830
+Belmont:Foster:10.569400
+Belmont:Bryn Mawr:11.392300
+Belmont:Peterson:12.242600
+Belmont:Oak Park:12.926200
+Belmont:Nagle:12.158700
+Belmont:Columbus:5.946340
+Belmont:Clark:3.285960
+Belmont:Stockton:3.307220
+Belmont:Kinzie:5.678780
+Belmont:Orleans:5.385660
+Belmont:Fairbanks:5.782820
+Belmont:Racine:6.376670
+Belmont:Ogden:6.306320
+Belmont:1550 West:6.448980
+Belmont:Edens Expy:10.135800
+Belmont:Mendota:13.160900
+Belmont:Kostner:12.133500
+Belmont:18th:9.503400
+Belmont:Monroe:7.062740
+Belmont:Balbo:7.866230
+Belmont:Pulaski:8.617510
+Belmont:Central Park:8.023620
+Belmont:Jersey:7.585990
+Belmont:26th:10.702400
+Belmont:Ohio:5.665320
+Belmont:Lake Shore Dr Michigan Entrance Ramp:4.824660
+Belmont:Lake Shore Dr Michigan Exit Ramp:4.808190
+Belmont:Van Buren:7.099560
+Belmont:Lake:6.118170
+Belmont:Franklin:6.017100
+Belmont:Washington:9.062310
+Belmont:Pacific:14.774900
+Belmont:Sheridan:1.689910
+Belmont:Clarendon:1.637260
+Belmont:Grand Ave:6.072620
+Belmont:Oak St:4.963220
+Belmont:Sunnyside:8.499060
+Belmont:Elston:3.415900
+Belmont:Jefferson:8.126010
+Belmont:Trumball:11.063600
+Belmont:Oakwood:13.369500
+Belmont:I-55 Expy:10.554300
+Belmont:Stevenson Expy:10.554300
+Belmont:18TH:9.512370
+Addison:Irving Park:0.806112
+Addison:Randolph:7.387840
+Addison:Illinois:6.710840
+Addison:LaSalle:5.791750
+Addison:Milwaukee:5.688080
+Addison:Congress:8.171100
+Addison:Jackson:7.822120
+Addison:Michigain:7.950020
+Addison:Montrose:8.808470
+Addison:Lawrence:9.481290
+Addison:Foster:10.273100
+Addison:Bryn Mawr:11.057600
+Addison:Peterson:11.875400
+Addison:Oak Park:12.659300
+Addison:Nagle:11.895700
+Addison:Columbus:6.707890
+Addison:Clark:4.049770
+Addison:Stockton:4.062640
+Addison:Kinzie:6.493970
+Addison:Orleans:6.192100
+Addison:Fairbanks:6.541290
+Addison:Racine:7.187260
+Addison:Ogden:7.106230
+Addison:1550 West:7.246440
+Addison:Edens Expy:9.693060
+Addison:Mendota:12.716000
+Addison:Kostner:12.794900
+Addison:18th:10.293400
+Addison:Monroe:7.832990
+Addison:Balbo:8.645330
+Addison:Pulaski:8.099500
+Addison:Central Park:7.465550
+Addison:Jersey:6.993130
+Addison:26th:11.506400
+Addison:Ohio:6.437160
+Addison:Lake Shore Dr Michigan Entrance Ramp:5.578580
+Addison:Lake Shore Dr Michigan Exit Ramp:5.564210
+Addison:Van Buren:7.909930
+Addison:Lake:6.926540
+Addison:Franklin:6.822770
+Addison:Washington:9.647910
+Addison:Pacific:14.703700
+Addison:Sheridan:0.921082
+Addison:Clarendon:0.821434
+Addison:Grand Ave:6.809460
+Addison:Oak St:5.697470
+Addison:Sunnyside:8.279740
+Addison:Elston:4.192820
+Addison:Jefferson:8.941060
+Addison:Trumball:11.784000
+Addison:Oakwood:14.154800
+Addison:I-55 Expy:11.343500
+Addison:Stevenson Expy:11.343500
+Addison:18TH:10.301800
+Irving Park:Randolph:8.159910
+Irving Park:Illinois:7.473940
+Irving Park:LaSalle:6.581050
+Irving Park:Milwaukee:6.489870
+Irving Park:Congress:8.962370
+Irving Park:Jackson:8.618740
+Irving Park:Michigain:8.734750
+Irving Park:Montrose:8.691820
+Irving Park:Lawrence:9.302830
+Irving Park:Foster:10.038100
+Irving Park:Bryn Mawr:10.778500
+Irving Park:Peterson:11.558800
+Irving Park:Oak Park:12.443700
+Irving Park:Nagle:11.687200
+Irving Park:Columbus:7.471280
+Irving Park:Clark:4.820930
+Irving Park:Stockton:4.828060
+Irving Park:Kinzie:7.299500
+Irving Park:Orleans:6.990880
+Irving Park:Fairbanks:7.302510
+Irving Park:Racine:7.989300
+Irving Park:Ogden:7.899940
+Irving Park:1550 West:8.038160
+Irving Park:Edens Expy:9.306300
+Irving Park:Mendota:12.314800
+Irving Park:Kostner:13.465500
+Irving Park:18th:11.077500
+Irving Park:Monroe:8.601980
+Irving Park:Balbo:9.420940
+Irving Park:Pulaski:7.639840
+Irving Park:Central Park:6.965150
+Irving Park:Jersey:6.456180
+Irving Park:26th:12.302200
+Irving Park:Ohio:7.209000
+Irving Park:Lake Shore Dr Michigan Entrance Ramp:6.338230
+Irving Park:Lake Shore Dr Michigan Exit Ramp:6.325480
+Irving Park:Van Buren:8.711490
+Irving Park:Lake:7.726650
+Irving Park:Franklin:7.620780
+Irving Park:Washington:10.258100
+Irving Park:Pacific:14.678700
+Irving Park:Sheridan:0.416447
+Irving Park:Clarendon:0.021660
+Irving Park:Grand Ave:7.553060
+Irving Park:Oak St:6.441860
+Irving Park:Sunnyside:8.138970
+Irving Park:Elston:4.972940
+Irving Park:Jefferson:9.746430
+Irving Park:Trumball:12.507700
+Irving Park:Oakwood:14.933600
+Irving Park:I-55 Expy:12.126500
+Irving Park:Stevenson Expy:12.126500
+Irving Park:18TH:11.085300
+111th:91st:4.049670
+111th:83rd:5.672500
+111th:79th:6.482860
+111th:76th:7.088270
+111th:71st:8.101800
+111th:67th:8.910430
+111th:63rd:9.719890
+111th:59th:10.528900
+111th:55th:11.338000
+111th:57th:11.960300
+111th:Indiana:3.838310
+111th:I-94 Expy:5.746940
+111th:Torrence:7.845780
+111th:Indianapolis:9.207820
+111th:96th:9.489160
+111th:75th:8.763210
+111th:Woodlawn:5.161130
+111th:Jeffery:6.500340
+111th:Wentworth:3.477250
+111th:Monterey:2.326400
+111th:Vincennes:1.717150
+111th:Stewart:0.800733
+111th:Bishop Ford Expy:3.633040
+111th:Garfield:11.592100
+111th:Chicago Skyway:7.879170
+111th:72nd:11.306700
+111th:Columbus Ave:8.155460
+91st:83rd:1.622830
+91st:79th:2.433200
+91st:76th:3.038600
+91st:71st:4.052130
+91st:67th:4.860760
+91st:63rd:5.670230
+91st:59th:6.479270
+91st:55th:7.288330
+91st:57th:8.419980
+91st:Indiana:7.593820
+91st:I-94 Expy:8.915160
+91st:Torrence:10.445400
+91st:18th:14.537100
+91st:Indianapolis:9.179200
+91st:96th:9.047210
+91st:75th:5.846640
+91st:26th:13.103000
+91st:Woodlawn:4.125160
+91st:Jeffery:5.707530
+91st:Wentworth:1.461260
+91st:Monterey:4.681900
+91st:Vincennes:4.398850
+91st:Stewart:4.148010
+91st:Bishop Ford Expy:5.495430
+91st:Garfield:7.683080
+91st:Chicago Skyway:6.269150
+91st:72nd:8.953380
+91st:Trumball:14.789100
+91st:Oakwood:11.311700
+91st:I-55 Expy:13.608500
+91st:Stevenson Expy:13.608500
+91st:Columbus Ave:4.702530
+91st:18TH:14.541300
+91st:Mobile:13.302700
+83rd:79th:0.810368
+83rd:76th:1.415770
+83rd:71st:2.429300
+83rd:67th:3.237930
+83rd:63rd:4.047400
+83rd:59th:4.856450
+83rd:55th:5.665500
+83rd:Congress:14.772600
+83rd:57th:7.154340
+83rd:Indiana:9.169240
+83rd:I-94 Expy:10.358500
+83rd:Torrence:11.720100
+83rd:Kostner:14.154600
+83rd:18th:12.941900
+83rd:Balbo:14.610400
+83rd:Indianapolis:9.656410
+83rd:96th:9.368490
+83rd:75th:5.129330
+83rd:26th:11.500700
+83rd:Van Buren:14.851000
+83rd:Woodlawn:4.729110
+83rd:Jeffery:6.156210
+83rd:Wentworth:2.711140
+83rd:Monterey:6.143490
+83rd:Vincennes:5.926980
+83rd:Stewart:5.748820
+83rd:Bishop Ford Expy:6.798200
+83rd:Garfield:6.167590
+83rd:Chicago Skyway:6.274970
+83rd:72nd:8.382610
+83rd:Jefferson:13.758100
+83rd:Trumball:13.287000
+83rd:Oakwood:9.797870
+83rd:I-55 Expy:12.025900
+83rd:Stevenson Expy:12.025900
+83rd:Columbus Ave:3.678300
+83rd:18TH:12.946900
+83rd:Mobile:12.482300
+79th:76th:0.605405
+79th:71st:1.618940
+79th:67th:2.427570
+79th:63rd:3.237040
+79th:59th:4.046080
+79th:55th:4.855140
+79th:Congress:13.967800
+79th:Jackson:14.211600
+79th:Michigain:14.288200
+79th:57th:6.581760
+79th:Racine:14.743500
+79th:Ogden:14.942000
+79th:1550 West:14.835600
+79th:Indiana:9.961770
+79th:I-94 Expy:11.098000
+79th:Torrence:12.387600
+79th:Kostner:13.464300
+79th:18th:12.148300
+79th:Monroe:14.652300
+79th:Balbo:13.812800
+79th:Indianapolis:9.985900
+79th:96th:9.628420
+79th:75th:4.935230
+79th:26th:10.703000
+79th:Van Buren:14.042400
+79th:Woodlawn:5.197290
+79th:Jeffery:6.521970
+79th:Wentworth:3.453660
+79th:Monterey:6.900160
+79th:Vincennes:6.706570
+79th:Stewart:6.552330
+79th:Bishop Ford Expy:7.495970
+79th:Garfield:5.434380
+79th:Chicago Skyway:6.433620
+79th:72nd:8.202950
+79th:Jefferson:12.948200
+79th:Trumball:12.548000
+79th:Oakwood:9.056360
+79th:I-55 Expy:11.240100
+79th:Stevenson Expy:11.240100
+79th:Columbus Ave:3.348310
+79th:18TH:12.153600
+79th:Mobile:12.132600
+76th:71st:1.013530
+76th:67th:1.822160
+76th:63rd:2.631630
+76th:59th:3.440680
+76th:55th:4.249730
+76th:Randolph:14.405200
+76th:Congress:13.366800
+76th:Jackson:13.608800
+76th:Michigain:13.688500
+76th:57th:6.187330
+76th:Kinzie:14.781700
+76th:Racine:14.138900
+76th:Ogden:14.339000
+76th:1550 West:14.233100
+76th:Indiana:10.555300
+76th:I-94 Expy:11.656000
+76th:Torrence:12.895900
+76th:Kostner:12.958700
+76th:18th:11.556500
+76th:Monroe:14.056000
+76th:Balbo:13.217600
+76th:Indianapolis:10.265300
+76th:96th:9.859980
+76th:75th:4.871990
+76th:26th:10.108000
+76th:Van Buren:13.438200
+76th:Lake:14.428400
+76th:Franklin:14.559900
+76th:Woodlawn:5.596950
+76th:Jeffery:6.843730
+76th:Wentworth:4.024930
+76th:Monterey:7.473380
+76th:Vincennes:7.293790
+76th:Stewart:7.153410
+76th:Bishop Ford Expy:8.030230
+76th:Garfield:4.901570
+76th:Chicago Skyway:6.613010
+76th:72nd:8.120920
+76th:Jefferson:12.343100
+76th:Trumball:12.002600
+76th:Oakwood:8.509770
+76th:I-55 Expy:10.655000
+76th:Stevenson Expy:10.655000
+76th:Columbus Ave:3.216800
+76th:18TH:11.562100
+76th:Mobile:11.902500
+71st:67th:0.808632
+71st:63rd:1.618100
+71st:59th:2.427140
+71st:55th:3.236200
+71st:Randolph:13.404900
+71st:Illinois:14.134700
+71st:LaSalle:14.656600
+71st:Milwaukee:14.612500
+71st:Congress:12.361600
+71st:Jackson:12.600000
+71st:Michigain:12.685800
+71st:57th:5.611710
+71st:Columbus:14.133500
+71st:Kinzie:13.768300
+71st:Orleans:14.155400
+71st:Fairbanks:14.308500
+71st:Racine:13.126900
+71st:Ogden:13.330000
+71st:1550 West:13.225100
+71st:Indiana:11.551600
+71st:I-94 Expy:12.599800
+71st:Torrence:13.764400
+71st:Kostner:12.132800
+71st:18th:10.569200
+71st:Monroe:13.059400
+71st:Balbo:12.223400
+71st:Indianapolis:10.793100
+71st:96th:10.315700
+71st:75th:4.933340
+71st:26th:9.114970
+71st:Ohio:14.265300
+71st:Van Buren:12.427100
+71st:Lake:13.417000
+71st:Franklin:13.549100
+71st:Woodlawn:6.339430
+71st:Jeffery:7.461650
+71st:Wentworth:4.999310
+71st:Monterey:8.443110
+71st:Vincennes:8.282770
+71st:Stewart:8.161130
+71st:Bishop Ford Expy:8.944930
+71st:Garfield:4.055390
+71st:Washington:14.626900
+71st:Chicago Skyway:7.020670
+71st:Grand Ave:14.310500
+71st:72nd:8.083920
+71st:Jefferson:11.330200
+71st:Trumball:11.103700
+71st:Oakwood:7.614610
+71st:I-55 Expy:9.680880
+71st:Stevenson Expy:9.680880
+71st:Columbus Ave:3.247120
+71st:18TH:10.575400
+71st:Mobile:11.578100
+67th:63rd:0.809468
+67th:59th:1.618510
+67th:55th:2.427570
+67th:Randolph:12.608500
+67th:Illinois:13.337500
+67th:LaSalle:13.851200
+67th:Milwaukee:13.804600
+67th:Congress:11.560800
+67th:Jackson:11.795800
+67th:Michigain:11.887200
+67th:57th:5.249040
+67th:Columbus:13.336200
+67th:Kinzie:12.959800
+67th:Orleans:13.348500
+67th:Fairbanks:13.510900
+67th:Racine:12.319700
+67th:Ogden:12.525400
+67th:1550 West:12.421400
+67th:Indiana:12.348600
+67th:I-94 Expy:13.360400
+67th:Torrence:14.471300
+67th:Kostner:11.495000
+67th:18th:9.785450
+67th:Monroe:12.266500
+67th:Balbo:11.432700
+67th:Indianapolis:11.262400
+67th:96th:10.734700
+67th:75th:5.128140
+67th:26th:8.326390
+67th:Ohio:13.464900
+67th:Lake Shore Dr Michigan Entrance Ramp:14.376800
+67th:Lake Shore Dr Michigan Exit Ramp:14.372200
+67th:Van Buren:11.620700
+67th:Lake:12.610400
+67th:Franklin:12.742900
+67th:Woodlawn:6.981260
+67th:Jeffery:8.013100
+67th:Wentworth:5.786510
+67th:Monterey:9.223390
+67th:Vincennes:9.075570
+67th:Stewart:8.966130
+67th:Bishop Ford Expy:9.689080
+67th:Garfield:3.446140
+67th:Washington:13.906600
+67th:Chicago Skyway:7.430070
+67th:Grand Ave:13.518200
+67th:Oak St:14.437700
+67th:72nd:8.144570
+67th:Jefferson:10.522200
+67th:Trumball:10.401300
+67th:Oakwood:6.924220
+67th:I-55 Expy:8.910260
+67th:Stevenson Expy:8.910260
+67th:Columbus Ave:3.488460
+67th:18TH:9.792280
+67th:Mobile:11.376900
+63rd:59th:0.809044
+63rd:55th:1.618100
+63rd:Randolph:11.812800
+63rd:Illinois:12.540800
+63rd:LaSalle:13.045300
+63rd:Milwaukee:12.996000
+63rd:Congress:10.760100
+63rd:Jackson:10.991300
+63rd:Michigain:11.089000
+63rd:57th:4.991300
+63rd:Columbus:12.539400
+63rd:Clark:14.854700
+63rd:Stockton:14.886000
+63rd:Kinzie:12.150600
+63rd:Orleans:12.541000
+63rd:Fairbanks:12.713800
+63rd:Racine:11.511800
+63rd:Ogden:11.720600
+63rd:1550 West:11.617700
+63rd:Indiana:13.147800
+63rd:I-94 Expy:14.127000
+63rd:Kostner:10.879800
+63rd:18th:9.005160
+63rd:Monroe:11.474800
+63rd:Balbo:10.643800
+63rd:Indianapolis:11.768700
+63rd:96th:11.196600
+63rd:75th:5.437210
+63rd:26th:7.541070
+63rd:Ohio:12.664700
+63rd:Lake Shore Dr Michigan Entrance Ramp:13.575600
+63rd:Lake Shore Dr Michigan Exit Ramp:13.570700
+63rd:Van Buren:10.813800
+63rd:Lake:11.803100
+63rd:Franklin:11.936300
+63rd:Woodlawn:7.655130
+63rd:Jeffery:8.605500
+63rd:Wentworth:6.579600
+63rd:Monterey:10.009100
+63rd:Vincennes:9.871880
+63rd:Stewart:9.772500
+63rd:Bishop Ford Expy:10.443400
+63rd:Garfield:2.933860
+63rd:Washington:13.196100
+63rd:Chicago Skyway:7.901260
+63rd:Grand Ave:12.727100
+63rd:Oak St:13.639400
+63rd:72nd:8.284910
+63rd:Elston:14.646100
+63rd:Jefferson:9.713380
+63rd:Trumball:9.715060
+63rd:Oakwood:6.261140
+63rd:I-55 Expy:8.146000
+63rd:Stevenson Expy:8.146000
+63rd:Columbus Ave:3.887230
+63rd:18TH:9.012670
+63rd:Mobile:11.230900
+59th:55th:0.809056
+59th:Randolph:11.019500
+59th:Illinois:11.746200
+59th:LaSalle:12.240300
+59th:Milwaukee:12.188000
+59th:Congress:9.961370
+59th:Jackson:10.188100
+59th:Michigain:10.293100
+59th:57th:4.856390
+59th:Columbus:11.744800
+59th:Clark:14.048800
+59th:Stockton:14.080700
+59th:Kinzie:11.341700
+59th:Orleans:11.734100
+59th:Fairbanks:11.918700
+59th:Racine:10.704600
+59th:Ogden:10.917000
+59th:1550 West:10.815200
+59th:Indiana:13.947700
+59th:I-94 Expy:14.897600
+59th:Kostner:10.291800
+59th:18th:8.230910
+59th:Monroe:10.686100
+59th:Balbo:9.858630
+59th:Indianapolis:12.307200
+59th:96th:11.696000
+59th:75th:5.842640
+59th:26th:6.761870
+59th:Ohio:11.866200
+59th:Lake Shore Dr Michigan Entrance Ramp:12.775900
+59th:Lake Shore Dr Michigan Exit Ramp:12.770600
+59th:Van Buren:10.007800
+59th:Lake:10.996600
+59th:Franklin:11.130500
+59th:Woodlawn:8.352750
+59th:Jeffery:9.230590
+59th:Wentworth:7.375840
+59th:Monterey:10.798000
+59th:Vincennes:10.669700
+59th:Stewart:10.578900
+59th:Bishop Ford Expy:11.205000
+59th:Garfield:2.578820
+59th:Washington:12.498000
+59th:Chicago Skyway:8.423740
+59th:Grand Ave:11.938800
+59th:Oak St:12.843000
+59th:72nd:8.500210
+59th:Elston:13.839700
+59th:Jefferson:8.905130
+59th:Trumball:9.049560
+59th:Oakwood:5.636760
+59th:I-55 Expy:7.391770
+59th:Stevenson Expy:7.391770
+59th:Columbus Ave:4.399960
+59th:18TH:8.239220
+59th:Mobile:11.142000
+55th:Randolph:10.228800
+55th:Illinois:10.954000
+55th:LaSalle:11.435900
+55th:Milwaukee:11.380000
+55th:Congress:9.164510
+55th:Jackson:9.385930
+55th:Michigain:9.499530
+55th:57th:4.855020
+55th:Columbus:10.952400
+55th:Clark:13.243500
+55th:Stockton:13.275900
+55th:Kinzie:10.532900
+55th:Orleans:10.927600
+55th:Fairbanks:11.125800
+55th:Racine:9.897700
+55th:Ogden:10.114100
+55th:1550 West:10.013700
+55th:Indiana:14.748800
+55th:Kostner:9.735060
+55th:18th:7.464240
+55th:Monroe:9.900940
+55th:Balbo:9.077810
+55th:Indianapolis:12.874400
+55th:96th:12.229000
+55th:75th:6.326520
+55th:26th:5.990770
+55th:Ohio:11.069300
+55th:Lake Shore Dr Michigan Entrance Ramp:11.977500
+55th:Lake Shore Dr Michigan Exit Ramp:11.971900
+55th:Van Buren:9.202260
+55th:Lake:10.190500
+55th:Franklin:10.325200
+55th:Woodlawn:9.069190
+55th:Jeffery:9.882780
+55th:Wentworth:8.174690
+55th:Monterey:11.589500
+55th:Vincennes:11.469100
+55th:Stewart:11.385800
+55th:Bishop Ford Expy:11.973000
+55th:Garfield:2.450580
+55th:Washington:11.813700
+55th:Chicago Skyway:8.989220
+55th:Grand Ave:11.153600
+55th:Oak St:12.048400
+55th:72nd:8.784440
+55th:Elston:13.033600
+55th:Jefferson:8.097060
+55th:Trumball:8.408870
+55th:Oakwood:5.065370
+55th:I-55 Expy:6.650680
+55th:Stevenson Expy:6.650680
+55th:Columbus Ave:4.991390
+55th:18TH:7.473520
+55th:Mobile:11.110900
+Randolph:Illinois:0.733373
+Randolph:LaSalle:1.698100
+Randolph:Milwaukee:3.180230
+Randolph:Congress:1.133620
+Randolph:Jackson:1.188120
+Randolph:Michigain:0.749792
+Randolph:57th:10.693200
+Randolph:Montrose:13.938900
+Randolph:Lawrence:14.842200
+Randolph:Columbus:0.733030
+Randolph:Clark:3.339270
+Randolph:Stockton:3.333120
+Randolph:Kinzie:2.048250
+Randolph:Orleans:1.628040
+Randolph:Fairbanks:0.910139
+Randolph:Racine:2.995280
+Randolph:Ogden:3.542000
+Randolph:1550 West:3.668360
+Randolph:Kostner:10.129800
+Randolph:18th:2.957670
+Randolph:Monroe:0.455704
+Randolph:Balbo:1.266180
+Randolph:Pulaski:14.761000
+Randolph:Central Park:14.293100
+Randolph:Jersey:13.950100
+Randolph:75th:14.264300
+Randolph:26th:4.317960
+Randolph:Ohio:0.950942
+Randolph:Lake Shore Dr Michigan Entrance Ramp:1.846730
+Randolph:Lake Shore Dr Michigan Exit Ramp:1.852990
+Randolph:Van Buren:1.579760
+Randolph:Lake:1.352490
+Randolph:Franklin:1.248100
+Randolph:Garfield:9.986480
+Randolph:Washington:8.731200
+Randolph:Sheridan:8.298210
+Randolph:Clarendon:8.178750
+Randolph:Grand Ave:0.980873
+Randolph:Oak St:1.842970
+Randolph:Sunnyside:13.603200
+Randolph:Elston:4.527830
+Randolph:Jefferson:2.631840
+Randolph:Trumball:8.330690
+Randolph:Oakwood:6.778550
+Randolph:I-55 Expy:3.991700
+Randolph:Stevenson Expy:3.991700
+Randolph:Columbus Ave:14.848500
+Randolph:18TH:2.961440
+Illinois:LaSalle:1.219670
+Illinois:Milwaukee:2.984050
+Illinois:Congress:1.814490
+Illinois:Jackson:1.743290
+Illinois:Michigain:1.456350
+Illinois:57th:11.393600
+Illinois:Montrose:13.534000
+Illinois:Lawrence:14.423200
+Illinois:Columbus:0.008210
+Illinois:Clark:2.663940
+Illinois:Stockton:2.648220
+Illinois:Kinzie:2.029730
+Illinois:Orleans:1.409050
+Illinois:Fairbanks:0.177711
+Illinois:Racine:3.156140
+Illinois:Ogden:3.654120
+Illinois:1550 West:3.801230
+Illinois:Kostner:10.449400
+Illinois:18th:3.684180
+Illinois:Monroe:1.139390
+Illinois:Balbo:1.985260
+Illinois:Pulaski:14.206800
+Illinois:Central Park:13.717400
+Illinois:Jersey:13.357200
+Illinois:75th:14.975700
+Illinois:26th:5.051310
+Illinois:Ohio:0.365120
+Illinois:Lake Shore Dr Michigan Entrance Ramp:1.137380
+Illinois:Lake Shore Dr Michigan Exit Ramp:1.148670
+Illinois:Van Buren:2.089450
+Illinois:Lake:1.499040
+Illinois:Franklin:1.335280
+Illinois:Garfield:10.717300
+Illinois:Washington:8.818920
+Illinois:Sheridan:7.625920
+Illinois:Clarendon:7.493120
+Illinois:Grand Ave:0.494527
+Illinois:Oak St:1.109800
+Illinois:Sunnyside:13.176500
+Illinois:Elston:4.119660
+Illinois:Jefferson:3.226840
+Illinois:Trumball:8.703830
+Illinois:Oakwood:7.483450
+Illinois:I-55 Expy:4.711660
+Illinois:Stevenson Expy:4.711660
+Illinois:18TH:3.687010
+LaSalle:Milwaukee:1.882810
+LaSalle:Congress:2.382180
+LaSalle:Jackson:2.066230
+LaSalle:Michigain:2.164350
+LaSalle:57th:12.291500
+LaSalle:Montrose:12.316900
+LaSalle:Lawrence:13.208500
+LaSalle:Foster:14.194000
+LaSalle:Columbus:1.212670
+LaSalle:Clark:1.814630
+LaSalle:Stockton:1.841300
+LaSalle:Kinzie:1.297860
+LaSalle:Orleans:0.601083
+LaSalle:Fairbanks:1.126500
+LaSalle:Racine:2.508010
+LaSalle:Ogden:2.888210
+LaSalle:1550 West:3.055160
+LaSalle:Edens Expy:14.300000
+LaSalle:Kostner:9.825750
+LaSalle:18th:4.505920
+LaSalle:Monroe:2.152510
+LaSalle:Balbo:2.896380
+LaSalle:Pulaski:13.063200
+LaSalle:Central Park:12.595900
+LaSalle:Jersey:12.256400
+LaSalle:26th:5.730490
+LaSalle:Ohio:0.855199
+LaSalle:Lake Shore Dr Michigan Entrance Ramp:0.857832
+LaSalle:Lake Shore Dr Michigan Exit Ramp:0.825510
+LaSalle:Van Buren:2.237810
+LaSalle:Lake:1.267890
+LaSalle:Franklin:1.116720
+LaSalle:Garfield:11.432400
+LaSalle:Washington:7.892220
+LaSalle:Sheridan:6.687980
+LaSalle:Clarendon:6.598910
+LaSalle:Grand Ave:1.616870
+LaSalle:Oak St:1.161600
+LaSalle:Sunnyside:11.963300
+LaSalle:Elston:2.900260
+LaSalle:Jefferson:3.387230
+LaSalle:Trumball:8.189280
+LaSalle:Oakwood:8.375240
+LaSalle:I-55 Expy:5.557130
+LaSalle:Stevenson Expy:5.557130
+LaSalle:18TH:4.515290
+Milwaukee:Congress:3.264530
+Milwaukee:Jackson:2.797690
+Milwaukee:Michigain:3.269620
+Milwaukee:57th:12.962500
+Milwaukee:Montrose:10.860200
+Milwaukee:Lawrence:11.781900
+Milwaukee:Foster:12.795300
+Milwaukee:Bryn Mawr:13.749700
+Milwaukee:Peterson:14.711600
+Milwaukee:Oak Park:14.830100
+Milwaukee:Nagle:14.092500
+Milwaukee:Columbus:2.976000
+Milwaukee:Clark:2.637360
+Milwaukee:Stockton:2.727210
+Milwaukee:Kinzie:1.219820
+Milwaukee:Orleans:1.586350
+Milwaukee:Fairbanks:2.941810
+Milwaukee:Racine:1.499470
+Milwaukee:Ogden:1.495300
+Milwaukee:1550 West:1.659120
+Milwaukee:Edens Expy:13.112200
+Milwaukee:Kostner:8.243610
+Milwaukee:18th:5.336890
+Milwaukee:Monroe:3.567990
+Milwaukee:Balbo:4.059090
+Milwaukee:Pulaski:12.047100
+Milwaukee:Central Park:11.669900
+Milwaukee:Jersey:11.409100
+Milwaukee:26th:6.232070
+Milwaukee:Ohio:2.637000
+Milwaukee:Lake Shore Dr Michigan Entrance Ramp:2.654690
+Milwaukee:Lake Shore Dr Michigan Exit Ramp:2.616860
+Milwaukee:Van Buren:2.674160
+Milwaukee:Lake:1.945940
+Milwaukee:Franklin:1.977720
+Milwaukee:Garfield:11.775200
+Milwaukee:Washington:6.053180
+Milwaukee:Sheridan:6.478440
+Milwaukee:Clarendon:6.503500
+Milwaukee:Grand Ave:3.444180
+Milwaukee:Oak St:2.986980
+Milwaukee:Sunnyside:10.560600
+Milwaukee:Elston:1.702940
+Milwaukee:Jefferson:3.436440
+Milwaukee:Trumball:6.764850
+Milwaukee:Oakwood:9.116340
+Milwaukee:I-55 Expy:6.341900
+Milwaukee:Stevenson Expy:6.341900
+Milwaukee:18TH:5.355470
+Congress:Jackson:0.473765
+Congress:Michigain:0.396079
+Congress:57th:9.935270
+Congress:Montrose:14.119500
+Congress:Columbus:1.811730
+Congress:Clark:4.180470
+Congress:Stockton:4.195210
+Congress:Kinzie:2.047170
+Congress:Orleans:2.021550
+Congress:Fairbanks:1.978630
+Congress:Racine:2.545320
+Congress:Ogden:3.116150
+Congress:1550 West:3.200430
+Congress:Kostner:9.264280
+Congress:18th:2.157270
+Congress:Monroe:1.004800
+Congress:Balbo:0.871349
+Congress:Central Park:14.803300
+Congress:Jersey:14.498800
+Congress:75th:13.447400
+Congress:26th:3.352800
+Congress:Ohio:1.904870
+Congress:Lake Shore Dr Michigan Entrance Ramp:2.816450
+Congress:Lake Shore Dr Michigan Exit Ramp:2.812660
+Congress:Van Buren:0.767722
+Congress:Lake:1.358600
+Congress:Franklin:1.401840
+Congress:Garfield:9.055380
+Congress:Washington:8.180160
+Congress:Sheridan:9.062720
+Congress:Clarendon:8.980110
+Congress:Grand Ave:2.114350
+Congress:Oak St:2.887560
+Congress:Sunnyside:13.824800
+Congress:Elston:4.852330
+Congress:Jefferson:1.543290
+Congress:Trumball:7.413820
+Congress:Oakwood:6.026630
+Congress:I-55 Expy:3.204590
+Congress:Stevenson Expy:3.204590
+Congress:Columbus Ave:13.734300
+Congress:18TH:2.170330
+Jackson:Michigain:0.650170
+Jackson:57th:10.329900
+Jackson:Montrose:13.648600
+Jackson:Lawrence:14.574100
+Jackson:Columbus:1.738620
+Jackson:Clark:3.880690
+Jackson:Stockton:3.904860
+Jackson:Kinzie:1.584260
+Jackson:Orleans:1.634790
+Jackson:Fairbanks:1.885230
+Jackson:Racine:2.097760
+Jackson:Ogden:2.669310
+Jackson:1550 West:2.762150
+Jackson:Kostner:8.985700
+Jackson:18th:2.579090
+Jackson:Monroe:1.238810
+Jackson:Balbo:1.329780
+Jackson:Pulaski:14.782600
+Jackson:Central Park:14.370000
+Jackson:Jersey:14.073400
+Jackson:75th:13.817600
+Jackson:26th:3.684590
+Jackson:Ohio:1.741300
+Jackson:Lake Shore Dr Michigan Entrance Ramp:2.613480
+Jackson:Lake Shore Dr Michigan Exit Ramp:2.603720
+Jackson:Van Buren:0.401005
+Jackson:Lake:0.926710
+Jackson:Franklin:1.002750
+Jackson:Garfield:9.379030
+Jackson:Washington:7.777450
+Jackson:Sheridan:8.704470
+Jackson:Clarendon:8.636010
+Jackson:Grand Ave:2.129290
+Jackson:Oak St:2.735610
+Jackson:Sunnyside:13.356200
+Jackson:Elston:4.404020
+Jackson:Jefferson:1.483620
+Jackson:Trumball:7.164720
+Jackson:Oakwood:6.431640
+Jackson:I-55 Expy:3.615730
+Jackson:Stevenson Expy:3.615730
+Jackson:Columbus Ave:13.874700
+Jackson:18TH:2.594560
+Michigain:57th:10.127300
+Michigain:Montrose:14.125800
+Michigain:Columbus:1.454420
+Michigain:Clark:3.927290
+Michigain:Stockton:3.934320
+Michigain:Kinzie:2.054710
+Michigain:Orleans:1.889530
+Michigain:Fairbanks:1.626610
+Michigain:Racine:2.728400
+Michigain:Ogden:3.298580
+Michigain:1550 West:3.398500
+Michigain:Kostner:9.606370
+Michigain:18th:2.343460
+Michigain:Monroe:0.623007
+Michigain:Balbo:0.793896
+Michigain:Central Park:14.691300
+Michigain:Jersey:14.372300
+Michigain:75th:13.666500
+Michigain:26th:3.629960
+Michigain:Ohio:1.589160
+Michigain:Lake Shore Dr Michigan Entrance Ramp:2.507480
+Michigain:Lake Shore Dr Michigan Exit Ramp:2.507310
+Michigain:Van Buren:1.035750
+Michigain:Lake:1.323860
+Michigain:Franklin:1.315700
+Michigain:Garfield:9.323370
+Michigain:Washington:8.425710
+Michigain:Sheridan:8.849970
+Michigain:Clarendon:8.752940
+Michigain:Grand Ave:1.727110
+Michigain:Oak St:2.550520
+Michigain:Sunnyside:13.816500
+Michigain:Elston:4.788360
+Michigain:Jefferson:1.934810
+Michigain:Trumball:7.768930
+Michigain:Oakwood:6.210910
+Michigain:I-55 Expy:3.394000
+Michigain:Stevenson Expy:3.394000
+Michigain:Columbus Ave:14.100700
+Michigain:18TH:2.352110
+57th:Columbus:11.395600
+57th:Clark:14.030000
+57th:Stockton:14.026200
+57th:Kinzie:11.840100
+57th:Orleans:11.954300
+57th:Fairbanks:11.568600
+57th:Racine:11.686000
+57th:Ogden:12.096600
+57th:1550 West:12.059600
+57th:Indiana:14.492000
+57th:I-94 Expy:14.651000
+57th:Torrence:14.912500
+57th:Kostner:13.919100
+57th:18th:7.786580
+57th:Monroe:10.256800
+57th:Balbo:9.429910
+57th:Indianapolis:9.755450
+57th:96th:8.916960
+57th:75th:3.647460
+57th:26th:6.731630
+57th:Ohio:11.643400
+57th:Lake Shore Dr Michigan Entrance Ramp:12.530200
+57th:Lake Shore Dr Michigan Exit Ramp:12.539700
+57th:Van Buren:10.335100
+57th:Lake:11.255300
+57th:Franklin:11.326900
+57th:Woodlawn:7.762930
+57th:Jeffery:7.754570
+57th:Wentworth:8.491040
+57th:Monterey:13.088700
+57th:Vincennes:12.753600
+57th:Stewart:11.677800
+57th:Bishop Ford Expy:11.074500
+57th:Garfield:2.419950
+57th:Chicago Skyway:6.248100
+57th:Grand Ave:11.383900
+57th:Oak St:12.469000
+57th:72nd:13.275200
+57th:Elston:14.654300
+57th:Jefferson:9.564580
+57th:Trumball:12.286900
+57th:Oakwood:3.917410
+57th:I-55 Expy:6.735210
+57th:Stevenson Expy:6.735210
+57th:Columbus Ave:8.737150
+57th:18TH:7.776580
+Montrose:Lawrence:0.955447
+Montrose:Foster:1.997660
+Montrose:Bryn Mawr:2.972900
+Montrose:Peterson:3.952700
+Montrose:Oak Park:4.024890
+Montrose:Nagle:3.265170
+Montrose:Columbus:13.527300
+Montrose:Clark:11.360600
+Montrose:Stockton:11.439500
+Montrose:Kinzie:12.079900
+Montrose:Orleans:12.316600
+Montrose:Fairbanks:13.423300
+Montrose:Racine:11.829500
+Montrose:Ogden:11.347100
+Montrose:1550 West:11.356800
+Montrose:Edens Expy:3.307260
+Montrose:Mendota:5.429680
+Montrose:Kostner:12.266300
+Montrose:Monroe:14.365200
+Montrose:Balbo:14.917600
+Montrose:Pulaski:3.896560
+Montrose:Central Park:4.396230
+Montrose:Jersey:4.856980
+Montrose:Ohio:13.171200
+Montrose:Lake Shore Dr Michigan Entrance Ramp:12.669600
+Montrose:Lake Shore Dr Michigan Exit Ramp:12.636800
+Montrose:Van Buren:13.477200
+Montrose:Lake:12.802600
+Montrose:Franklin:12.818000
+Montrose:Washington:9.059080
+Montrose:Pacific:6.084000
+Montrose:Sheridan:8.276220
+Montrose:Clarendon:8.674950
+Montrose:Grand Ave:13.878600
+Montrose:Oak St:12.946800
+Montrose:Sunnyside:0.599288
+Montrose:Kennedy Expy:7.275690
+Montrose:Elston:9.420170
+Montrose:Jefferson:13.938200
+Montrose:Cumberland:6.878470
+Montrose:Trumball:12.610500
+Lawrence:Foster:1.042240
+Lawrence:Bryn Mawr:2.017520
+Lawrence:Peterson:2.997370
+Lawrence:Oak Park:3.203340
+Lawrence:Nagle:2.434890
+Lawrence:Columbus:14.416500
+Lawrence:Clark:12.202700
+Lawrence:Stockton:12.278800
+Lawrence:Kinzie:13.001700
+Lawrence:Orleans:13.223400
+Lawrence:Fairbanks:14.309000
+Lawrence:Racine:12.771100
+Lawrence:Ogden:12.292600
+Lawrence:1550 West:12.304200
+Lawrence:Edens Expy:2.611600
+Lawrence:Mendota:4.484870
+Lawrence:Kostner:13.136600
+Lawrence:Pulaski:3.613500
+Lawrence:Central Park:4.245700
+Lawrence:Jersey:4.788780
+Lawrence:Ohio:14.061500
+Lawrence:Lake Shore Dr Michigan Entrance Ramp:13.538700
+Lawrence:Lake Shore Dr Michigan Exit Ramp:13.506500
+Lawrence:Van Buren:14.408600
+Lawrence:Lake:13.721400
+Lawrence:Franklin:13.733200
+Lawrence:Washington:9.972400
+Lawrence:Pacific:5.761570
+Lawrence:Sheridan:8.890870
+Lawrence:Clarendon:9.284900
+Lawrence:Grand Ave:14.758600
+Lawrence:Oak St:13.810000
+Lawrence:Sunnyside:1.255800
+Lawrence:Kennedy Expy:6.525700
+Lawrence:Elston:10.317400
+Lawrence:Jefferson:14.883100
+Lawrence:Cumberland:6.530110
+Lawrence:Trumball:13.529400
+Foster:Bryn Mawr:0.975312
+Foster:Peterson:1.955170
+Foster:Oak Park:2.414010
+Foster:Nagle:1.679050
+Foster:Clark:13.143300
+Foster:Stockton:13.216900
+Foster:Kinzie:14.014700
+Foster:Orleans:14.222800
+Foster:Racine:13.802000
+Foster:Ogden:13.326800
+Foster:1550 West:13.340100
+Foster:Edens Expy:2.110250
+Foster:Mendota:3.463200
+Foster:Kostner:14.094600
+Foster:Pulaski:3.591020
+Foster:Central Park:4.333370
+Foster:Jersey:4.939370
+Foster:Lake Shore Dr Michigan Entrance Ramp:14.503000
+Foster:Lake Shore Dr Michigan Exit Ramp:14.471500
+Foster:Lake:14.731600
+Foster:Franklin:14.740000
+Foster:Washington:10.974100
+Foster:Pacific:5.567300
+Foster:Sheridan:9.632100
+Foster:Clarendon:10.019300
+Foster:Oak St:14.768600
+Foster:Sunnyside:2.235990
+Foster:Kennedy Expy:5.769450
+Foster:Elston:11.310100
+Foster:Cumberland:6.284780
+Foster:Trumball:14.534400
+Bryn Mawr:Peterson:0.979863
+Bryn Mawr:Oak Park:1.899850
+Bryn Mawr:Nagle:1.359900
+Bryn Mawr:Clark:14.040500
+Bryn Mawr:Stockton:14.111900
+Bryn Mawr:Kinzie:14.968500
+Bryn Mawr:Racine:14.769400
+Bryn Mawr:Ogden:14.296800
+Bryn Mawr:1550 West:14.311300
+Bryn Mawr:Edens Expy:2.060800
+Bryn Mawr:Mendota:2.525650
+Bryn Mawr:Kostner:14.997500
+Bryn Mawr:Pulaski:3.845030
+Bryn Mawr:Central Park:4.640700
+Bryn Mawr:Jersey:5.275750
+Bryn Mawr:Washington:11.915300
+Bryn Mawr:Pacific:5.548880
+Bryn Mawr:Sheridan:10.379100
+Bryn Mawr:Clarendon:10.759100
+Bryn Mawr:Sunnyside:3.190850
+Bryn Mawr:Kennedy Expy:5.144670
+Bryn Mawr:Elston:12.249200
+Bryn Mawr:Cumberland:6.196590
+Peterson:Oak Park:1.813660
+Peterson:Nagle:1.668830
+Peterson:Clark:14.952400
+Peterson:Edens Expy:2.442120
+Peterson:Mendota:1.630040
+Peterson:Pulaski:4.314230
+Peterson:Central Park:5.122550
+Peterson:Jersey:5.763800
+Peterson:Washington:12.865600
+Peterson:Pacific:5.698860
+Peterson:Sheridan:11.166200
+Peterson:Clarendon:11.538900
+Peterson:Sunnyside:4.160010
+Peterson:Kennedy Expy:4.638450
+Peterson:Elston:13.198500
+Peterson:Cumberland:6.259530
+Oak Park:Nagle:0.768446
+Oak Park:Edens Expy:3.947610
+Oak Park:Mendota:3.128870
+Oak Park:Pulaski:5.743880
+Oak Park:Central Park:6.536930
+Oak Park:Jersey:7.169740
+Oak Park:Washington:12.241700
+Oak Park:Pacific:3.889700
+Oak Park:Sheridan:12.036100
+Oak Park:Clarendon:12.425100
+Oak Park:Sunnyside:4.451560
+Oak Park:Kennedy Expy:3.356610
+Oak Park:Elston:13.429900
+Oak Park:Cumberland:4.447750
+Nagle:Clark:14.619300
+Nagle:Stockton:14.696900
+Nagle:Ogden:14.506500
+Nagle:1550 West:14.504900
+Nagle:Edens Expy:3.407530
+Nagle:Mendota:3.224370
+Nagle:Kostner:14.563600
+Nagle:Pulaski:5.132260
+Nagle:Central Park:5.910580
+Nagle:Jersey:6.534920
+Nagle:Washington:11.657300
+Nagle:Pacific:4.194190
+Nagle:Sheridan:11.278600
+Nagle:Clarendon:11.668700
+Nagle:Sunnyside:3.683720
+Nagle:Kennedy Expy:4.111970
+Nagle:Elston:12.679100
+Nagle:Cumberland:4.836720
+Columbus:Clark:2.660720
+Columbus:Stockton:2.645300
+Columbus:Kinzie:2.021570
+Columbus:Orleans:1.400890
+Columbus:Fairbanks:0.177346
+Columbus:Racine:3.148280
+Columbus:Ogden:3.646090
+Columbus:1550 West:3.793240
+Columbus:Kostner:10.442000
+Columbus:18th:3.684810
+Columbus:Monroe:1.140880
+Columbus:Balbo:1.986180
+Columbus:Pulaski:14.201600
+Columbus:Central Park:13.712600
+Columbus:Jersey:13.352600
+Columbus:75th:14.977300
+Columbus:26th:5.050870
+Columbus:Ohio:0.357928
+Columbus:Lake Shore Dr Michigan Entrance Ramp:1.135130
+Columbus:Lake Shore Dr Michigan Exit Ramp:1.146160
+Columbus:Van Buren:2.084080
+Columbus:Lake:1.491490
+Columbus:Franklin:1.327570
+Columbus:Garfield:10.717600
+Columbus:Washington:8.810770
+Columbus:Sheridan:7.622860
+Columbus:Clarendon:7.490440
+Columbus:Grand Ave:0.502571
+Columbus:Oak St:1.109970
+Columbus:Sunnyside:13.170000
+Columbus:Elston:4.112730
+Columbus:Jefferson:3.222200
+Columbus:Trumball:8.696720
+Columbus:Oakwood:7.485240
+Columbus:I-55 Expy:4.712720
+Columbus:Stevenson Expy:4.712720
+Columbus:18TH:3.687700
+Clark:Stockton:0.104477
+Clark:Kinzie:2.840680
+Clark:Orleans:2.323550
+Clark:Fairbanks:2.496870
+Clark:Racine:3.889610
+Clark:Ogden:4.077660
+Clark:1550 West:4.249320
+Clark:Edens Expy:13.033900
+Clark:Kostner:10.865000
+Clark:18th:6.264850
+Clark:Monroe:3.783280
+Clark:Balbo:4.600190
+Clark:Pulaski:11.669400
+Clark:Central Park:11.142800
+Clark:Jersey:10.755600
+Clark:26th:7.533250
+Clark:Ohio:2.388330
+Clark:Lake Shore Dr Michigan Entrance Ramp:1.541370
+Clark:Lake Shore Dr Michigan Exit Ramp:1.523480
+Clark:Van Buren:4.041190
+Clark:Lake:3.054780
+Clark:Franklin:2.918380
+Clark:Garfield:13.235800
+Clark:Washington:8.452170
+Clark:Sheridan:4.962910
+Clark:Clarendon:4.839690
+Clark:Grand Ave:2.804760
+Clark:Oak St:1.712110
+Clark:Sunnyside:10.946900
+Clark:Elston:2.444000
+Clark:Jefferson:5.168700
+Clark:Trumball:9.400620
+Clark:Oakwood:10.113600
+Clark:I-55 Expy:7.311330
+Clark:Stevenson Expy:7.311330
+Clark:18TH:6.271740
+Stockton:Kinzie:2.899450
+Stockton:Orleans:2.364890
+Stockton:Fairbanks:2.478860
+Stockton:Racine:3.962840
+Stockton:Ogden:4.160180
+Stockton:1550 West:4.332150
+Stockton:Edens Expy:13.094600
+Stockton:Kostner:10.959200
+Stockton:18th:6.267870
+Stockton:Monroe:3.773930
+Stockton:Balbo:4.596670
+Stockton:Pulaski:11.721000
+Stockton:Central Park:11.189500
+Stockton:Jersey:10.797900
+Stockton:26th:7.547580
+Stockton:Ohio:2.382740
+Stockton:Lake Shore Dr Michigan Entrance Ramp:1.517800
+Stockton:Lake Shore Dr Michigan Exit Ramp:1.502230
+Stockton:Van Buren:4.074590
+Stockton:Lake:3.091430
+Stockton:Franklin:2.951350
+Stockton:Garfield:13.249500
+Stockton:Washington:8.554840
+Stockton:Sheridan:4.978320
+Stockton:Clarendon:4.847050
+Stockton:Grand Ave:2.771260
+Stockton:Oak St:1.670440
+Stockton:Sunnyside:11.023000
+Stockton:Elston:2.547580
+Stockton:Jefferson:5.208830
+Stockton:Trumball:9.488470
+Stockton:Oakwood:10.110700
+Stockton:I-55 Expy:7.312660
+Stockton:Stevenson Expy:7.312660
+Stockton:18TH:6.274260
+Kinzie:Orleans:0.721129
+Kinzie:Fairbanks:2.044730
+Kinzie:Racine:1.215130
+Kinzie:Ogden:1.646020
+Kinzie:1550 West:1.803650
+Kinzie:Edens Expy:14.312200
+Kinzie:Kostner:8.552070
+Kinzie:18th:4.146620
+Kinzie:Monroe:2.397040
+Kinzie:Balbo:2.841280
+Kinzie:Pulaski:13.213600
+Kinzie:Central Park:12.814100
+Kinzie:Jersey:12.531600
+Kinzie:26th:5.129400
+Kinzie:Ohio:1.742160
+Kinzie:Lake Shore Dr Michigan Entrance Ramp:2.149380
+Kinzie:Lake Shore Dr Michigan Exit Ramp:2.119010
+Kinzie:Van Buren:1.505810
+Kinzie:Lake:0.736422
+Kinzie:Franklin:0.801993
+Kinzie:Garfield:10.757300
+Kinzie:Washington:6.789230
+Kinzie:Sheridan:7.341680
+Kinzie:Clarendon:7.315240
+Kinzie:Grand Ave:2.522480
+Kinzie:Oak St:2.432250
+Kinzie:Sunnyside:11.779800
+Kinzie:Elston:2.832600
+Kinzie:Jefferson:2.447350
+Kinzie:Trumball:6.894670
+Kinzie:Oakwood:7.965590
+Kinzie:I-55 Expy:5.167730
+Kinzie:Stevenson Expy:5.167730
+Kinzie:Columbus Ave:14.779100
+Kinzie:18TH:4.163830
+Orleans:Fairbanks:1.388900
+Orleans:Racine:1.935710
+Orleans:Ogden:2.355350
+Orleans:1550 West:2.516830
+Orleans:Edens Expy:14.416700
+Orleans:Kostner:9.272850
+Orleans:18th:4.178520
+Orleans:Monroe:2.048670
+Orleans:Balbo:2.672460
+Orleans:Pulaski:13.240600
+Orleans:Central Park:12.802800
+Orleans:Jersey:12.488000
+Orleans:26th:5.317790
+Orleans:Ohio:1.080090
+Orleans:Lake Shore Dr Michigan Entrance Ramp:1.435160
+Orleans:Lake Shore Dr Michigan Exit Ramp:1.406270
+Orleans:Van Buren:1.732210
+Orleans:Lake:0.740497
+Orleans:Franklin:0.632146
+Orleans:Garfield:11.006100
+Orleans:Washington:7.451240
+Orleans:Sheridan:7.070980
+Orleans:Clarendon:7.007910
+Orleans:Grand Ave:1.885830
+Orleans:Oak St:1.711730
+Orleans:Sunnyside:11.987400
+Orleans:Elston:2.921570
+Orleans:Jefferson:2.845160
+Orleans:Trumball:7.612660
+Orleans:Oakwood:8.047840
+Orleans:I-55 Expy:5.226060
+Orleans:Stevenson Expy:5.226060
+Orleans:18TH:4.191180
+Fairbanks:Racine:3.199850
+Fairbanks:Ogden:3.682890
+Fairbanks:1550 West:3.834100
+Fairbanks:Kostner:10.514600
+Fairbanks:18th:3.861890
+Fairbanks:Monroe:1.316140
+Fairbanks:Balbo:2.162820
+Fairbanks:Pulaski:14.062100
+Fairbanks:Central Park:13.568100
+Fairbanks:Jersey:13.204200
+Fairbanks:26th:5.227750
+Fairbanks:Ohio:0.308823
+Fairbanks:Lake Shore Dr Michigan Entrance Ramp:0.964447
+Fairbanks:Lake Shore Dr Michigan Exit Ramp:0.977262
+Fairbanks:Van Buren:2.219080
+Fairbanks:Lake:1.566440
+Fairbanks:Franklin:1.395740
+Fairbanks:Garfield:10.894900
+Fairbanks:Washington:8.828940
+Fairbanks:Sheridan:7.457150
+Fairbanks:Clarendon:7.321750
+Fairbanks:Grand Ave:0.502402
+Fairbanks:Oak St:0.932850
+Fairbanks:Sunnyside:13.060900
+Fairbanks:Elston:4.017100
+Fairbanks:Jefferson:3.368000
+Fairbanks:Trumball:8.783460
+Fairbanks:Oakwood:7.659200
+Fairbanks:I-55 Expy:4.889050
+Fairbanks:Stevenson Expy:4.889050
+Fairbanks:18TH:3.864700
+Racine:Ogden:0.571578
+Racine:1550 West:0.675838
+Racine:Edens Expy:14.277300
+Racine:Kostner:7.341620
+Racine:18th:4.313160
+Racine:Monroe:3.236400
+Racine:Balbo:3.416600
+Racine:Pulaski:13.316600
+Racine:Central Park:12.983600
+Racine:Jersey:12.756400
+Racine:26th:4.974760
+Racine:Ohio:2.909790
+Racine:Lake Shore Dr Michigan Entrance Ramp:3.362930
+Racine:Lake Shore Dr Michigan Exit Ramp:3.331970
+Racine:Van Buren:1.790560
+Racine:Lake:1.675350
+Racine:Franklin:1.825590
+Racine:Garfield:10.379600
+Racine:Washington:5.737310
+Racine:Sheridan:7.976010
+Racine:Clarendon:8.002950
+Racine:Grand Ave:3.649100
+Racine:Oak St:3.647290
+Racine:Sunnyside:11.583200
+Racine:Elston:3.138910
+Racine:Jefferson:2.129830
+Racine:Trumball:5.681300
+Racine:Oakwood:7.914210
+Racine:I-55 Expy:5.236270
+Racine:Stevenson Expy:5.236270
+Racine:Columbus Ave:13.923600
+Racine:18TH:4.336690
+Racine:Mobile:14.296800
+Ogden:1550 West:0.173029
+Ogden:Edens Expy:13.854400
+Ogden:Kostner:6.940730
+Ogden:18th:4.838200
+Ogden:Monroe:3.798440
+Ogden:Balbo:3.987490
+Ogden:Pulaski:12.942500
+Ogden:Central Park:12.634900
+Ogden:Jersey:12.429600
+Ogden:26th:5.418380
+Ogden:Ohio:3.384070
+Ogden:Lake Shore Dr Michigan Entrance Ramp:3.744710
+Ogden:Lake Shore Dr Michigan Exit Ramp:3.711220
+Ogden:Van Buren:2.358900
+Ogden:Lake:2.203250
+Ogden:Franklin:2.341310
+Ogden:Garfield:10.712300
+Ogden:Washington:5.191290
+Ogden:Sheridan:7.857210
+Ogden:Clarendon:7.912360
+Ogden:Grand Ave:4.148650
+Ogden:Oak St:4.047250
+Ogden:Sunnyside:11.116100
+Ogden:Elston:2.956810
+Ogden:Jefferson:2.591410
+Ogden:Trumball:5.354100
+Ogden:Oakwood:8.367640
+Ogden:I-55 Expy:5.734660
+Ogden:Stevenson Expy:5.734660
+Ogden:Columbus Ave:13.997700
+Ogden:18TH:4.862640
+Ogden:Mobile:14.019100
+1550 West:Edens Expy:13.893400
+1550 West:Kostner:6.771890
+1550 West:18th:4.866790
+1550 West:Monroe:3.912070
+1550 West:Balbo:4.071110
+1550 West:Pulaski:13.001700
+1550 West:Central Park:12.703500
+1550 West:Jersey:12.505800
+1550 West:26th:5.400810
+1550 West:Ohio:3.537140
+1550 West:Lake Shore Dr Michigan Entrance Ramp:3.912220
+1550 West:Lake Shore Dr Michigan Exit Ramp:3.878940
+1550 West:Van Buren:2.437330
+1550 West:Lake:2.338270
+1550 West:Franklin:2.481250
+1550 West:Garfield:10.646700
+1550 West:Washington:5.062960
+1550 West:Sheridan:7.989810
+1550 West:Clarendon:8.050350
+1550 West:Grand Ave:4.295590
+1550 West:Oak St:4.213050
+1550 West:Sunnyside:11.134400
+1550 West:72nd:14.923700
+1550 West:Elston:3.084000
+1550 West:Jefferson:2.591680
+1550 West:Trumball:5.181190
+1550 West:Oakwood:8.351650
+1550 West:I-55 Expy:5.744890
+1550 West:Stevenson Expy:5.744890
+1550 West:Columbus Ave:13.863600
+1550 West:18TH:4.891850
+1550 West:Mobile:13.846300
+Indiana:I-94 Expy:2.427670
+Indiana:Torrence:4.871870
+Indiana:Indianapolis:8.794190
+Indiana:96th:9.418520
+Indiana:75th:10.944700
+Indiana:Woodlawn:6.801570
+Indiana:Jeffery:7.449520
+Indiana:Wentworth:6.575850
+Indiana:Monterey:5.418750
+Indiana:Vincennes:4.954670
+Indiana:Stewart:3.469630
+Indiana:Bishop Ford Expy:3.593860
+Indiana:Garfield:14.611100
+Indiana:Chicago Skyway:9.144910
+Indiana:Columbus Ave:11.965800
+I-94 Expy:Torrence:2.453690
+I-94 Expy:Indianapolis:7.389940
+I-94 Expy:96th:8.166750
+I-94 Expy:75th:11.006900
+I-94 Expy:Woodlawn:6.931970
+I-94 Expy:Jeffery:7.043680
+I-94 Expy:Wentworth:7.649140
+I-94 Expy:Monterey:7.665430
+I-94 Expy:Vincennes:7.144650
+I-94 Expy:Stewart:5.146990
+I-94 Expy:Bishop Ford Expy:3.714150
+I-94 Expy:Chicago Skyway:8.741730
+I-94 Expy:Columbus Ave:13.536200
+Torrence:Indianapolis:6.306050
+Torrence:96th:7.210810
+Torrence:75th:11.304600
+Torrence:Woodlawn:7.593360
+Torrence:Jeffery:7.165570
+Torrence:Wentworth:9.050640
+Torrence:Monterey:9.933940
+Torrence:Vincennes:9.380240
+Torrence:Stewart:7.147920
+Torrence:Bishop Ford Expy:4.950350
+Torrence:Chicago Skyway:8.705300
+Edens Expy:Mendota:3.025680
+Edens Expy:Pulaski:1.872310
+Edens Expy:Central Park:2.680510
+Edens Expy:Jersey:3.321710
+Edens Expy:Lake Shore Dr Michigan Entrance Ramp:14.488500
+Edens Expy:Lake Shore Dr Michigan Exit Ramp:14.460500
+Edens Expy:Lake:14.997400
+Edens Expy:Franklin:14.980700
+Edens Expy:Washington:12.229300
+Edens Expy:Pacific:7.560770
+Edens Expy:Sheridan:8.928610
+Edens Expy:Clarendon:9.285700
+Edens Expy:Oak St:14.721900
+Edens Expy:Sunnyside:3.134430
+Edens Expy:Kennedy Expy:7.065130
+Edens Expy:Elston:11.506000
+Edens Expy:Cumberland:8.234000
+Mendota:Pulaski:4.725560
+Mendota:Central Park:5.487740
+Mendota:Jersey:6.098960
+Mendota:Washington:14.435300
+Mendota:Pacific:6.929060
+Mendota:Sheridan:11.942200
+Mendota:Clarendon:12.294000
+Mendota:Sunnyside:5.541630
+Mendota:Kennedy Expy:5.025730
+Mendota:Elston:14.415900
+Mendota:Cumberland:7.382310
+Kostner:18th:9.778670
+Kostner:Monroe:10.220600
+Kostner:Balbo:9.993330
+Kostner:26th:9.222040
+Kostner:Ohio:10.236300
+Kostner:Lake Shore Dr Michigan Entrance Ramp:10.683400
+Kostner:Lake Shore Dr Michigan Exit Ramp:10.650400
+Kostner:Van Buren:8.585030
+Kostner:Lake:8.951350
+Kostner:Franklin:9.119370
+Kostner:Garfield:11.680500
+Kostner:Washington:3.478970
+Kostner:Pacific:13.572100
+Kostner:Sheridan:13.258400
+Kostner:Clarendon:13.469900
+Kostner:Grand Ave:10.931300
+Kostner:Oak St:10.980100
+Kostner:Sunnyside:12.382700
+Kostner:72nd:9.960570
+Kostner:Elston:8.927600
+Kostner:Jefferson:7.844500
+Kostner:Cumberland:14.048900
+Kostner:Trumball:1.935280
+Kostner:Oakwood:11.467500
+Kostner:I-55 Expy:10.082600
+Kostner:Stevenson Expy:10.082600
+Kostner:Columbus Ave:11.095400
+Kostner:18TH:9.808880
+Kostner:Mobile:7.522410
+18th:Monroe:2.553740
+18th:Balbo:1.701530
+18th:75th:11.324600
+18th:26th:1.476740
+18th:Ohio:3.894240
+18th:Lake Shore Dr Michigan Entrance Ramp:4.803140
+18th:Lake Shore Dr Michigan Exit Ramp:4.808040
+18th:Van Buren:2.664110
+18th:Lake:3.503050
+18th:Franklin:3.558040
+18th:Garfield:7.037970
+18th:Washington:9.425010
+18th:Chicago Skyway:14.023100
+18th:Sheridan:11.193200
+18th:Clarendon:11.095700
+18th:Grand Ave:3.779180
+18th:Oak St:4.790360
+18th:72nd:14.891000
+18th:Elston:6.977550
+18th:Jefferson:2.335430
+18th:Trumball:7.845760
+18th:Oakwood:3.872770
+18th:I-55 Expy:1.051390
+18th:Stevenson Expy:1.051390
+18th:Columbus Ave:12.271000
+18th:18TH:0.030332
+Monroe:Balbo:0.852291
+Monroe:Central Park:14.748100
+Monroe:Jersey:14.405700
+Monroe:75th:13.836400
+Monroe:26th:3.951740
+Monroe:Ohio:1.397470
+Monroe:Lake Shore Dr Michigan Entrance Ramp:2.273820
+Monroe:Lake Shore Dr Michigan Exit Ramp:2.282920
+Monroe:Van Buren:1.637430
+Monroe:Lake:1.670460
+Monroe:Franklin:1.598860
+Monroe:Garfield:9.591430
+Monroe:Washington:8.965930
+Monroe:Sheridan:8.744930
+Monroe:Clarendon:8.620950
+Monroe:Grand Ave:1.252710
+Monroe:Oak St:2.238350
+Monroe:Sunnyside:14.035000
+Monroe:Elston:4.963190
+Monroe:Jefferson:2.547590
+Monroe:Trumball:8.388850
+Monroe:Oakwood:6.345080
+Monroe:I-55 Expy:3.574200
+Monroe:Stevenson Expy:3.574200
+Monroe:Columbus Ave:14.571700
+Monroe:18TH:2.555210
+Balbo:75th:12.998100
+Balbo:26th:3.109800
+Balbo:Ohio:2.214150
+Balbo:Lake Shore Dr Michigan Entrance Ramp:3.112040
+Balbo:Lake Shore Dr Michigan Exit Ramp:3.118870
+Balbo:Van Buren:1.635090
+Balbo:Lake:2.115020
+Balbo:Franklin:2.109380
+Balbo:Garfield:8.739140
+Balbo:Washington:9.032030
+Balbo:Sheridan:9.552900
+Balbo:Clarendon:9.439630
+Balbo:Grand Ave:2.090010
+Balbo:Oak St:3.089320
+Balbo:Sunnyside:14.609800
+Balbo:Elston:5.580230
+Balbo:Jefferson:2.157150
+Balbo:Trumball:8.113250
+Balbo:Oakwood:5.514010
+Balbo:I-55 Expy:2.727000
+Balbo:Stevenson Expy:2.727000
+Balbo:Columbus Ave:13.789800
+Balbo:18TH:1.703270
+Indianapolis:96th:0.946766
+Indianapolis:75th:6.617700
+Indianapolis:Woodlawn:5.054480
+Indianapolis:Jeffery:3.507670
+Indianapolis:Wentworth:7.828910
+Indianapolis:Monterey:11.488000
+Indianapolis:Vincennes:10.887200
+Indianapolis:Stewart:8.435260
+Indianapolis:Bishop Ford Expy:5.757410
+Indianapolis:Garfield:11.299100
+Indianapolis:Chicago Skyway:3.885940
+Indianapolis:Oakwood:13.635600
+Indianapolis:Columbus Ave:13.307900
+96th:75th:5.919520
+96th:Woodlawn:4.954080
+96th:Jeffery:3.348440
+96th:Wentworth:7.767650
+96th:Monterey:11.720400
+96th:Vincennes:11.129700
+96th:Stewart:8.741630
+96th:Bishop Ford Expy:6.195430
+96th:Garfield:10.553400
+96th:Chicago Skyway:3.304680
+96th:Oakwood:12.774200
+96th:Columbus Ave:12.972900
+Pulaski:Central Park:0.808413
+Pulaski:Jersey:1.449820
+Pulaski:Ohio:13.869700
+Pulaski:Lake Shore Dr Michigan Entrance Ramp:13.167600
+Pulaski:Lake Shore Dr Michigan Exit Ramp:13.142300
+Pulaski:Van Buren:14.711500
+Pulaski:Lake:13.866100
+Pulaski:Franklin:13.831300
+Pulaski:Washington:12.021500
+Pulaski:Pacific:9.157490
+Pulaski:Sheridan:7.282820
+Pulaski:Clarendon:7.618670
+Pulaski:Grand Ave:14.441900
+Pulaski:Oak St:13.377300
+Pulaski:Sunnyside:3.455460
+Pulaski:Kennedy Expy:8.928400
+Pulaski:Elston:10.381300
+Pulaski:Cumberland:9.874490
+Central Park:Jersey:0.641426
+Central Park:Ohio:13.387300
+Central Park:Lake Shore Dr Michigan Entrance Ramp:12.657600
+Central Park:Lake Shore Dr Michigan Exit Ramp:12.633700
+Central Park:Van Buren:14.317900
+Central Park:Lake:13.447800
+Central Park:Franklin:13.404200
+Central Park:Washington:12.043000
+Central Park:Pacific:9.886260
+Central Park:Sheridan:6.622590
+Central Park:Clarendon:6.943740
+Central Park:Grand Ave:13.932700
+Central Park:Oak St:12.854600
+Central Park:Sunnyside:3.893130
+Central Park:Kennedy Expy:9.735470
+Central Park:Elston:9.984700
+Central Park:Cumberland:10.615300
+Jersey:Ohio:13.033600
+Jersey:Lake Shore Dr Michigan Entrance Ramp:12.281500
+Jersey:Lake Shore Dr Michigan Exit Ramp:12.259000
+Jersey:Van Buren:14.037400
+Jersey:Lake:13.148200
+Jersey:Franklin:13.097300
+Jersey:Washington:12.105600
+Jersey:Pacific:10.475600
+Jersey:Sheridan:6.128740
+Jersey:Clarendon:6.434610
+Jersey:Grand Ave:13.555200
+Jersey:Oak St:12.467200
+Jersey:Sunnyside:4.322220
+Jersey:Kennedy Expy:10.376300
+Jersey:Elston:9.712970
+Jersey:Jefferson:14.834900
+Jersey:Cumberland:11.212300
+75th:26th:10.151100
+75th:Van Buren:13.785000
+75th:Lake:14.735300
+75th:Franklin:14.820100
+75th:Woodlawn:4.156900
+75th:Jeffery:4.139680
+75th:Wentworth:5.434280
+75th:Monterey:10.249700
+75th:Vincennes:9.821800
+75th:Stewart:8.362790
+75th:Bishop Ford Expy:7.463270
+75th:Garfield:4.704850
+75th:Chicago Skyway:2.796110
+75th:Grand Ave:14.989500
+75th:72nd:12.962200
+75th:Jefferson:12.918900
+75th:Trumball:14.669100
+75th:Oakwood:7.497640
+75th:I-55 Expy:10.277700
+75th:Stevenson Expy:10.277700
+75th:Columbus Ave:8.060500
+75th:18TH:11.317300
+26th:Ohio:5.218410
+26th:Lake Shore Dr Michigan Entrance Ramp:6.136680
+26th:Lake Shore Dr Michigan Exit Ramp:6.137060
+26th:Van Buren:3.633970
+26th:Lake:4.591890
+26th:Franklin:4.685830
+26th:Woodlawn:13.952400
+26th:Jeffery:14.275200
+26th:Wentworth:13.772100
+26th:Garfield:5.702700
+26th:Washington:9.400560
+26th:Chicago Skyway:12.898100
+26th:Sheridan:12.388700
+26th:Clarendon:12.319500
+26th:Grand Ave:5.199200
+26th:Oak St:6.160480
+26th:72nd:13.536200
+26th:Elston:7.927330
+26th:Jefferson:2.845180
+26th:Trumball:7.298940
+26th:Oakwood:2.950950
+26th:I-55 Expy:0.954195
+26th:Stevenson Expy:0.954195
+26th:Columbus Ave:10.799800
+26th:18TH:1.487940
+26th:Mobile:14.208300
+Ohio:Lake Shore Dr Michigan Entrance Ramp:0.918353
+Ohio:Lake Shore Dr Michigan Exit Ramp:0.918948
+Ohio:Van Buren:2.042380
+Ohio:Lake:1.303870
+Ohio:Franklin:1.128360
+Ohio:Garfield:10.906800
+Ohio:Washington:8.522590
+Ohio:Sheridan:7.348130
+Ohio:Clarendon:7.227820
+Ohio:Grand Ave:0.808633
+Ohio:Oak St:0.995095
+Ohio:Sunnyside:12.815500
+Ohio:Elston:3.755460
+Ohio:Jefferson:3.209510
+Ohio:Trumball:8.518710
+Ohio:Oakwood:7.728050
+Ohio:I-55 Expy:4.934610
+Ohio:Stevenson Expy:4.934610
+Ohio:18TH:3.899420
+Lake Shore Dr Michigan Entrance Ramp:Lake Shore Dr Michigan Exit Ramp:0.038517
+Lake Shore Dr Michigan Entrance Ramp:Van Buren:2.871420
+Lake Shore Dr Michigan Entrance Ramp:Lake:1.988070
+Lake Shore Dr Michigan Entrance Ramp:Franklin:1.814860
+Lake Shore Dr Michigan Entrance Ramp:Garfield:11.823200
+Lake Shore Dr Michigan Entrance Ramp:Washington:8.702030
+Lake Shore Dr Michigan Entrance Ramp:Sheridan:6.495370
+Lake Shore Dr Michigan Entrance Ramp:Clarendon:6.357490
+Lake Shore Dr Michigan Entrance Ramp:Grand Ave:1.275210
+Lake Shore Dr Michigan Entrance Ramp:Oak St:0.335087
+Lake Shore Dr Michigan Entrance Ramp:Sunnyside:12.285700
+Lake Shore Dr Michigan Entrance Ramp:Elston:3.353460
+Lake Shore Dr Michigan Entrance Ramp:Jefferson:4.045370
+Lake Shore Dr Michigan Entrance Ramp:Trumball:9.043860
+Lake Shore Dr Michigan Entrance Ramp:Oakwood:8.618880
+Lake Shore Dr Michigan Entrance Ramp:I-55 Expy:5.838390
+Lake Shore Dr Michigan Entrance Ramp:Stevenson Expy:5.838390
+Lake Shore Dr Michigan Entrance Ramp:18TH:4.807390
+Lake Shore Dr Michigan Exit Ramp:Van Buren:2.857520
+Lake Shore Dr Michigan Exit Ramp:Lake:1.967740
+Lake Shore Dr Michigan Exit Ramp:Franklin:1.795270
+Lake Shore Dr Michigan Exit Ramp:Garfield:11.825500
+Lake Shore Dr Michigan Exit Ramp:Washington:8.664650
+Lake Shore Dr Michigan Exit Ramp:Sheridan:6.480460
+Lake Shore Dr Michigan Exit Ramp:Clarendon:6.344690
+Lake Shore Dr Michigan Exit Ramp:Grand Ave:1.299720
+Lake Shore Dr Michigan Exit Ramp:Oak St:0.373559
+Lake Shore Dr Michigan Exit Ramp:Sunnyside:12.253800
+Lake Shore Dr Michigan Exit Ramp:Elston:3.317150
+Lake Shore Dr Michigan Exit Ramp:Jefferson:4.031140
+Lake Shore Dr Michigan Exit Ramp:Trumball:9.013120
+Lake Shore Dr Michigan Exit Ramp:Oakwood:8.627620
+Lake Shore Dr Michigan Exit Ramp:I-55 Expy:5.844580
+Lake Shore Dr Michigan Exit Ramp:Stevenson Expy:5.844580
+Lake Shore Dr Michigan Exit Ramp:18TH:4.812530
+Van Buren:Lake:0.991779
+Van Buren:Franklin:1.123240
+Van Buren:Garfield:9.294660
+Van Buren:Washington:7.415370
+Van Buren:Sheridan:8.778780
+Van Buren:Clarendon:8.728160
+Van Buren:Grand Ave:2.500230
+Van Buren:Oak St:3.025360
+Van Buren:Sunnyside:13.199200
+Van Buren:Elston:4.333850
+Van Buren:Jefferson:1.174220
+Van Buren:Trumball:6.764070
+Van Buren:Oakwood:6.460550
+Van Buren:I-55 Expy:3.669890
+Van Buren:Stevenson Expy:3.669890
+Van Buren:Columbus Ave:13.624100
+Van Buren:18TH:2.683280
+Lake:Franklin:0.178100
+Lake:Garfield:10.272500
+Lake:Washington:7.394080
+Lake:Sheridan:7.800990
+Lake:Clarendon:7.743520
+Lake:Grand Ave:1.986200
+Lake:Oak St:2.198550
+Lake:Sunnyside:12.495900
+Lake:Elston:3.494690
+Lake:Jefferson:2.120640
+Lake:Trumball:7.217970
+Lake:Oakwood:7.358320
+Lake:I-55 Expy:4.542050
+Lake:Stevenson Expy:4.542050
+Lake:Columbus Ave:14.575500
+Lake:18TH:3.517860
+Franklin:Garfield:10.375900
+Franklin:Washington:7.528200
+Franklin:Sheridan:7.702860
+Franklin:Clarendon:7.637900
+Franklin:Grand Ave:1.825760
+Franklin:Oak St:2.021400
+Franklin:Sunnyside:12.504100
+Franklin:Elston:3.474700
+Franklin:Jefferson:2.272080
+Franklin:Trumball:7.391330
+Franklin:Oakwood:7.423300
+Franklin:I-55 Expy:4.602870
+Franklin:Stevenson Expy:4.602870
+Franklin:Columbus Ave:14.730100
+Franklin:18TH:3.571560
+Woodlawn:Jeffery:1.607550
+Woodlawn:Wentworth:2.813970
+Woodlawn:Monterey:7.136470
+Woodlawn:Vincennes:6.592380
+Woodlawn:Stewart:4.576310
+Woodlawn:Bishop Ford Expy:3.311950
+Woodlawn:Garfield:8.267150
+Woodlawn:Chicago Skyway:2.718910
+Woodlawn:72nd:12.996200
+Woodlawn:Oakwood:11.496000
+Woodlawn:I-55 Expy:14.198500
+Woodlawn:Stevenson Expy:14.198500
+Woodlawn:Columbus Ave:8.406760
+Jeffery:Wentworth:4.421330
+Jeffery:Monterey:8.603830
+Jeffery:Vincennes:8.037240
+Jeffery:Stewart:5.829790
+Jeffery:Bishop Ford Expy:3.861240
+Jeffery:Garfield:8.711280
+Jeffery:Chicago Skyway:1.715830
+Jeffery:72nd:14.504300
+Jeffery:Oakwood:11.634600
+Jeffery:I-55 Expy:14.417200
+Jeffery:Stevenson Expy:14.417200
+Jeffery:Columbus Ave:9.820020
+Wentworth:Monterey:4.826290
+Wentworth:Vincennes:4.387530
+Wentworth:Stewart:3.301930
+Wentworth:Bishop Ford Expy:4.107200
+Wentworth:Garfield:8.167750
+Wentworth:Chicago Skyway:5.238760
+Wentworth:72nd:10.404100
+Wentworth:Oakwood:11.736500
+Wentworth:I-55 Expy:14.197200
+Wentworth:Stevenson Expy:14.197200
+Wentworth:Columbus Ave:6.129010
+Wentworth:Mobile:14.763900
+Monterey:Vincennes:0.609352
+Monterey:Stewart:3.126840
+Monterey:Bishop Ford Expy:5.958950
+Monterey:Garfield:12.310300
+Monterey:Chicago Skyway:9.826500
+Monterey:72nd:9.791870
+Monterey:Columbus Ave:7.569060
+Monterey:Mobile:14.381100
+Vincennes:Stewart:2.517700
+Vincennes:Bishop Ford Expy:5.349940
+Vincennes:Garfield:12.074100
+Vincennes:Chicago Skyway:9.294690
+Vincennes:72nd:10.151400
+Vincennes:Columbus Ave:7.649430
+Vincennes:Mobile:14.750500
+Stewart:Bishop Ford Expy:2.832320
+Stewart:Garfield:11.469100
+Stewart:Chicago Skyway:7.277530
+Stewart:72nd:11.905300
+Stewart:Columbus Ave:8.518360
+Bishop Ford Expy:Garfield:11.462000
+Bishop Ford Expy:Chicago Skyway:5.551250
+Bishop Ford Expy:72nd:14.173700
+Bishop Ford Expy:Oakwood:14.781100
+Bishop Ford Expy:Columbus Ave:10.197300
+Garfield:Washington:13.321200
+Garfield:Chicago Skyway:7.499980
+Garfield:Grand Ave:10.811700
+Garfield:Oak St:11.825800
+Garfield:72nd:11.079000
+Garfield:Elston:13.476300
+Garfield:Jefferson:8.343050
+Garfield:Trumball:10.143400
+Garfield:Oakwood:3.631650
+Garfield:I-55 Expy:6.043560
+Garfield:Stevenson Expy:6.043560
+Garfield:Columbus Ave:6.820540
+Garfield:18TH:7.037250
+Garfield:Mobile:13.561500
+Washington:Pacific:11.434500
+Washington:Sheridan:10.012000
+Washington:Clarendon:10.260100
+Washington:Grand Ave:9.311590
+Washington:Oak St:9.031150
+Washington:Sunnyside:9.104900
+Washington:72nd:13.413300
+Washington:Kennedy Expy:14.587600
+Washington:Elston:6.181580
+Washington:Jefferson:7.130000
+Washington:Cumberland:12.041200
+Washington:Trumball:3.561710
+Washington:Oakwood:12.146300
+Washington:I-55 Expy:10.060000
+Washington:Stevenson Expy:10.060000
+Washington:Columbus Ave:14.102800
+Washington:18TH:9.454220
+Washington:Mobile:10.886000
+Chicago Skyway:72nd:14.624000
+Chicago Skyway:Oakwood:10.162300
+Chicago Skyway:I-55 Expy:12.972200
+Chicago Skyway:Stevenson Expy:12.972200
+Chicago Skyway:Columbus Ave:9.778950
+Chicago Skyway:18TH:14.014100
+Pacific:Sheridan:14.262500
+Pacific:Clarendon:14.663200
+Pacific:Sunnyside:6.677190
+Pacific:Kennedy Expy:3.654140
+Pacific:Elston:14.385700
+Pacific:Cumberland:0.804473
+Pacific:Trumball:14.701600
+Sheridan:Clarendon:0.400700
+Sheridan:Grand Ave:7.729520
+Sheridan:Oak St:6.617610
+Sheridan:Sunnyside:7.724280
+Sheridan:Elston:4.908910
+Sheridan:Jefferson:9.787910
+Sheridan:Trumball:12.349800
+Sheridan:I-55 Expy:12.244000
+Sheridan:Stevenson Expy:12.244000
+Sheridan:18TH:11.202100
+Clarendon:Grand Ave:7.572850
+Clarendon:Oak St:6.461600
+Clarendon:Sunnyside:8.121720
+Clarendon:Elston:4.984170
+Clarendon:Jefferson:9.762240
+Clarendon:Trumball:12.514800
+Clarendon:Oakwood:14.952200
+Clarendon:I-55 Expy:12.144800
+Clarendon:Stevenson Expy:12.144800
+Clarendon:18TH:11.103600
+Grand Ave:Oak St:1.112030
+Grand Ave:Sunnyside:13.508500
+Grand Ave:Elston:4.488430
+Grand Ave:Jefferson:3.599630
+Grand Ave:Trumball:9.174560
+Grand Ave:Oakwood:7.492210
+Grand Ave:I-55 Expy:4.773900
+Grand Ave:Stevenson Expy:4.773900
+Grand Ave:18TH:3.778060
+Oak St:Sunnyside:12.555900
+Oak St:Elston:3.665670
+Oak St:Jefferson:4.197160
+Oak St:Trumball:9.323280
+Oak St:Oakwood:8.566560
+Oak St:I-55 Expy:5.811930
+Oak St:Stevenson Expy:5.811930
+Oak St:18TH:4.792510
+Sunnyside:Kennedy Expy:7.752660
+Sunnyside:Elston:9.076260
+Sunnyside:Jefferson:13.702900
+Sunnyside:Cumberland:7.469890
+Sunnyside:Trumball:12.635700
+72nd:Jefferson:14.323300
+72nd:Trumball:10.324100
+72nd:Oakwood:13.678900
+72nd:I-55 Expy:14.433700
+72nd:Stevenson Expy:14.433700
+72nd:Columbus Ave:4.906340
+72nd:18TH:14.911800
+72nd:Mobile:4.601530
+Kennedy Expy:Cumberland:3.561470
+Elston:Jefferson:5.139350
+Elston:Trumball:7.711220
+Elston:Oakwood:10.793400
+Elston:I-55 Expy:8.000250
+Elston:Stevenson Expy:8.000250
+Elston:18TH:6.994270
+Jefferson:Trumball:5.957160
+Jefferson:Oakwood:5.785680
+Jefferson:I-55 Expy:3.156840
+Jefferson:Stevenson Expy:3.156840
+Jefferson:Columbus Ave:12.458400
+Jefferson:18TH:2.362970
+Jefferson:Mobile:14.069600
+Trumball:Oakwood:9.626530
+Trumball:I-55 Expy:8.151210
+Trumball:Stevenson Expy:8.151210
+Trumball:Columbus Ave:10.562800
+Trumball:18TH:7.875940
+Trumball:Mobile:8.690550
+Oakwood:I-55 Expy:2.822380
+Oakwood:Stevenson Expy:2.822380
+Oakwood:Columbus Ave:10.029300
+Oakwood:18TH:3.861950
+I-55 Expy:Stevenson Expy:0.000000
+I-55 Expy:Columbus Ave:11.547800
+I-55 Expy:18TH:1.041920
+Stevenson Expy:Columbus Ave:11.547800
+Stevenson Expy:18TH:1.041920
+Columbus Ave:18TH:12.284200
+Columbus Ave:Mobile:8.809730

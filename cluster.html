@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Map Heatmap</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet.heat/dist/leaflet-heat.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        #map {
+            height: 100vh;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div class="container mt-3">
+        <div class="row">
+            <div class="col">
+                <div class="form-group">
+                    <label for="hourSelect">Sélectionner une heure:</label>
+                    <select id="hourSelect" class="form-control"></select>
+                </div>
+            </div>
+        </div>
+        <div id="map"></div>
+    </div>
+    <div id="map"></div>
+    <script>
+        var map = L.map('map').setView([41.8781, -87.6298], 10);
+
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+        }).addTo(map);
+
+        let heatLayer;
+
+        fetch('clusters.json')
+            .then(response => response.json())
+            .then(data => {
+                var select = document.getElementById('hourSelect');
+                Object.keys(data).forEach(hour => {
+                    var option = document.createElement('option');
+                    option.textContent = hour;
+                    option.value = hour;
+                    select.appendChild(option);
+                });
+
+                select.addEventListener('change', function() {
+                    var selectedHour = this.value;
+                    if (heatLayer) {
+                        map.removeLayer(heatLayer);
+                    }
+                    showHourData(data[selectedHour]);
+                });
+            })
+            .catch(error => console.error('Erreur lors du chargement des données JSON:', error));
+
+        function showHourData(hourData) {
+            var heatData = [];
+            Object.values(hourData).forEach(clusterData => {
+                clusterData.forEach(coord => {
+                    heatData.push([coord.latitude, coord.longitude, coord.centrality / 1]);
+                });
+            });
+            var customGradient = {
+                0.0: '#00008B', // Bleu foncé pour les intensités faibles
+                0.5: '#00FF00', // Vert vif pour les intensités moyennes
+                1.0: '#FF0000'  // Rouge intense pour les intensités élevées
+            };
+
+            heatLayer = L.heatLayer(heatData, {
+                radius: 25,
+                blur: 15,
+                gradient: customGradient
+            }).addTo(map);
+                    }
+    </script>
+</body>
+</html>

@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Leaflet</title>
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.icon.glyph/dist/leaflet.icon.glyph.css" />
+    <style>
+        #map {
+            width: 100%;
+            height: 100vh;
+        }
+
+        .buttons {
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            z-index: 1000;
+        }
+
+        .buttons label {
+            color: white;
+            margin-right: 5px;
+        }
+
+        .buttons select {
+            border-radius: 5px;
+            padding: 5px;
+        }
+        .legend {
+            width: 250px;
+            height: 200px;
+        background-color: white;
+        padding: 10px; 
+        border-radius: 5px;
+        border: 1px solid #ccc;
+        margin: 10px; 
+}
+        .legend-item {
+            margin-bottom: 5px;
+        }
+
+        .legend-item img {
+            vertical-align: middle;
+            margin-right: 5px;
+        }
+    </style>
+</head>
+<body>
+<div id="map"></div>
+<div class="buttons">
+    <label for="hourSelect">Heure:</label>
+    <select id="hourSelect" onchange="selectHour()">
+        <option value="01">01h</option>
+        <option value="02">02h</option>
+        <option value="03">03h</option>
+        <option value="04">04h</option>
+        <option value="05">05h</option>
+        <option value="06">06h</option>
+        <option value="07">07h</option>
+        <option value="08">08h</option>
+        <option value="09">09h</option>
+        <option value="10">10h</option>
+        <option value="11">11h</option>
+        <option value="12">12h</option>
+        <option value="13">13h</option>
+        <option value="14">14h</option>
+        <option value="15">15h</option>
+        <option value="16">16h</option>
+        <option value="17">17h</option>
+        <option value="18">18h</option>
+        <option value="19">19h</option>
+        <option value="20">20h</option>
+        <option value="21">21h</option>
+        <option value="22">22h</option>
+        <option value="23">23h</option>
+        <option value="24">24h</option>
+    </select>
+</div>
+
+<div class="legend" id="legend">
+    <div class="legend-item">
+        <img src="cinema.png" alt="Cinéma"  width="30" height="30">
+        Cinéma
+    </div>
+    <div class="legend-item">
+        <img src="restaurant.png" alt="Restaurant"  width="30" height="30">
+        Restaurant
+    </div>
+    <div class="legend-item">
+        <img src="school.png" alt="École"   width="30" height="30">
+        École
+    </div>
+    <div class="legend-item">
+        <img src="police-station.png" alt="Poste de police"  width="30" height="30">
+        Poste de police
+    </div>
+    <div class="legend-item">
+        <img src="library.png" alt="Bibliothèque"   width="30" height="30">
+        Bibliothèque
+    </div>
+    <div class="legend-item">
+        <img src="fire-station.png" alt="Caserne de pompiers"  width="30" height="30">
+        Caserne de pompiers
+    </div>
+</div>
+
+
+<!-- Leaflet JS -->
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script src="https://unpkg.com/leaflet.icon.glyph/dist/leaflet.icon.glyph.js"></script>
+<script>
+
+
+
+// Icône pour le cinéma
+
+
+// Icône pour le restaurant
+var restaurantIcon = L.icon({
+    iconUrl: 'restaurant.png',
+    iconSize:  [16, 16],
+    iconAnchor: [16, 32],
+    popupAnchor: [0, -32]
+});
+var cinemaIcon = L.icon({
+    iconUrl: 'cinema.png',
+    iconSize: [16, 16], // Taille de l'icône en pixels
+    iconAnchor: [16, 32], // Point d'ancrage de l'icône
+    popupAnchor: [0, -32] // Point d'ancrage du popup par rapport à l'icône
+});
+// Icône pour l'école
+var schoolIcon = L.icon({
+    iconUrl: 'school.png',
+    iconSize:  [16, 16],
+    iconAnchor: [16, 32],
+    popupAnchor: [0, -32]
+});
+
+// Icône pour le poste de police
+var policeIcon = L.icon({
+    iconUrl: 'police-station.png',
+    iconSize:  [16, 16],
+    iconAnchor: [16, 32],
+    popupAnchor: [0, -32]
+});
+
+// Icône pour la bibliothèque
+var libraryIcon = L.icon({
+    iconUrl: 'library.png',
+    iconSize:  [16, 16],
+    iconAnchor: [16, 32],
+    popupAnchor: [0, -32]
+});
+
+// Icône pour la caserne de pompiers
+var fireStationIcon = L.icon({
+    iconUrl: 'fire-station.png',
+    iconSize: [16, 16],
+    iconAnchor: [16, 32],
+    popupAnchor: [0, -32]
+});
+
+
+
+    var map = L.map('map').setView([41.884414, -87.620542], 15);
+
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 19,
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(map);
+    // Charger les données depuis le fichier JSON
+    fetch('data.json')
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Erreur de récupération des données : ' + response.status);
+            }
+            return response.json();
+        })
+        .then(data => {
+            // Sauvegarde des données pour une utilisation ultérieure
+            window.quartierData = data;
+        })
+        .catch(error => {
+            console.error('Une erreur s\'est produite lors de la récupération des données :', error);
+        });
+// Fonction pour afficher les centralités en fonction du moment de la journée
+    function showCentralities(moment) {
+        var data = window.quartierData;
+        if (!data) {
+            console.error('Aucune donnée n\'a été chargée.');
+            return;
+        }
+
+        // Supprimer toutes les couches existantes sur la carte
+        map.eachLayer(function (layer) {
+            if (layer instanceof L.Marker || layer instanceof L.CircleMarker) {
+                map.removeLayer(layer);
+            }
+        });
+
+        data.forEach(quartier => 
+        {
+            var marker;
+            if (moment >= 1 && moment <= 24) {
+                marker = quartier.data[moment - 1]; 
+                // Utilisez l'index moment - 1 pour correspondre au tableau
+            } else {
+                console.error('Moment invalide. Doit être compris entre 1 et 24.');
+                return;
+            }
+            var markerSize = 17;
+            var markerColor;
+            if (marker < 5) {
+                markerColor = 'green';
+            } else if (marker < 10) {
+                markerColor = 'yellow';
+            } else if (marker < 20) {
+                markerColor = 'orange';
+            } else {
+                markerColor = 'red';
+            }
+            L.circleMarker([quartier.latitude, quartier.longitude], {
+
+                radius: markerSize,
+                color: markerColor,
+                fillOpacity: 0.8
+            }).bindPopup(quartier.name + '<br>Centrality: ' + marker).addTo(map);
+            
+        });
+        var bbox = map.getBounds().toBBoxString();
+// Construire la requête Overpass pour récupérer les données des installations
+var amenityTypes = ["cinema", "restaurant", "school", "police", "library", "fire_station"];
+
+// Promesses pour chaque requête fetch
+var fetchPromises = amenityTypes.map(type => {
+    var query = `[out:json];
+                 area[name="Chicago"]->.searchArea;
+                 node["amenity"="${type}"](area.searchArea);
+                 out center;`;
+
+    // Effectuer une requête fetch avec la requête construite
+    return fetch('https://overpass-api.de/api/interpreter', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/x-www-form-urlencoded'
+        },
+        body: 'data=' + encodeURIComponent(query)
+    })
+    .then(response => {
+        // Vérifier si la réponse est OK
+        if (!response.ok) {
+            throw new Error('Erreur de récupération des données depuis Overpass API: ' + response.status);
+        }
+        // Convertir la réponse en JSON et la renvoyer
+        return response.json();
+    });
+});
+
+Promise.all(fetchPromises)
+.then(results => {
+    // Parcourir les données et afficher les installations sur la carte
+    results.forEach(data => {
+        data.elements.forEach(element => {
+            var name = element.tags.name || 'Unnamed';
+            var lat = element.lat;
+            var lon = element.lon;
+            var type = element.tags.amenity || element.tags.shop;
+            // Définir l'icône en fonction du type d'installation
+            var icon;
+            if (type === 'cinema') {
+                icon = cinemaIcon;
+            } else if (type === 'restaurant') {
+                icon = restaurantIcon;
+            } else if (type === 'school') {
+                icon = schoolIcon;
+            } else if (type === 'police') {
+                icon = policeIcon;
+            } else if (type === 'library') {
+                icon = libraryIcon;
+            } else if (type === 'fire_station') {
+                icon = fireStationIcon;
+            }
+
+            // Ajouter un marqueur à la carte pour chaque installation avec une icône correspondante et un nom
+            L.marker([lat, lon], { icon: icon }).addTo(map).bindPopup(type);
+        });
+    });
+})
+.catch(error => {
+    // Gérer les erreurs de récupération des données
+    console.error('Erreur lors de la récupération des données depuis Overpass API:', error);
+});
+
+}
+    
+    function selectHour() {
+        var selectedHour = document.getElementById("hourSelect").value; // Récupère l'heure sélectionnée dans la liste déroulante
+        console.log(selectedHour);
+        var hour = parseInt(selectedHour); // Convertit en entier
+        console.log(hour);
+        showCentralities(hour); // Appelle la fonction showCentralities avec l'heure en entier}
+    }
+    // Ajout de la légende à la carte
+var legendControl = L.control({ position: 'bottomright' });
+
+legendControl.onAdd = function(map) {
+    var div = L.DomUtil.create('div', 'legend');
+    div.innerHTML = document.getElementById('legend').innerHTML;
+    return div;
+};
+
+legendControl.addTo(map);
+</script>
+</body>
+</html>

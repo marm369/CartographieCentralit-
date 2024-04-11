@@ -1,0 +1,218 @@
+//ce code permet de associer à chaque node, les centralité de chaque heure, en se basant sur notre dataset
+//ce code produit le fichier data.json , vous pouvez consulter le résultat
+
+#include <iostream>
+#include <fstream>
+#include <sstream>
+#include <string>
+#include <vector>
+#include <map>
+#include <ctime>
+//#include ".json-develop\include\nlohmann\json.hpp"
+#include "./json-develop/single_include/nlohmann/json.hpp"
+using namespace std;
+using json = nlohmann::json;
+struct Node {
+    std::string name;
+    float latitude;
+    float longitude;
+    int data[24];
+};
+
+float stringToFloat( std::string& str) {
+    std::istringstream iss(str);
+    float value;
+    iss >> value;
+    return value;
+}
+
+int extractHour( std::string& dateTime) {
+    // Extraction des composants de la date/heure
+    std::istringstream ss(dateTime);
+    std::string month, day, year, hour, minute, second, am_pm;
+
+    std::getline(ss, month, '/');
+    std::getline(ss, day, '/');
+    std::getline(ss, year, ' ');
+    std::getline(ss, hour, ':');
+    std::getline(ss, minute, ':');
+    std::getline(ss, second, ' ');
+    std::getline(ss, am_pm);
+
+    // Convertir l'heure en entier
+    int hourInt = std::stoi(hour);
+
+    // Si l'heure est PM, ajouter 12 heures
+    if (am_pm == "PM") {
+        if (hourInt != 12) {
+            hourInt += 12;
+        }
+    } else { // Si l'heure est AM et égale à 12, la réinitialiser à 0
+        if (hourInt == 12) {
+            hourInt = 0;
+        }
+    }
+
+    return hourInt;
+}
+
+void nodeExistsByName(vector<Node>& nodes, string nodeName,float latitude, float logitude, int busCount,int heure) {
+    //cout << "inici" << endl;
+    int found =0;
+    for ( auto& node : nodes) {
+        if (node.name == nodeName) {
+            //cout << nodeName << "  found " << endl;
+            found =1;
+            node.data[heure]+= busCount;
+        }
+    }
+    if(found == 0)
+    {
+        //cout << "not found "<< nodeName << endl;
+        Node newNode = {nodeName,latitude,logitude,{}}; 
+        newNode.data[heure]=busCount;
+        nodes.push_back(newNode);
+        //cout << nodeName << " not found " << endl;
+    }
+}
+
+void printNodes(const vector<Node>& nodes) {
+    cout << "Nodes dans le vecteur :" << endl;
+    for (const auto& node : nodes) {
+        cout << "Nom : " << node.name << ", Latitude : " << node.latitude << ", Longitude : " << node.longitude << endl;
+        cout << "Données :";
+        for (int i = 0; i < 24; i++)
+        {
+            cout << " " << node.data[i];
+        }
+        
+        cout << endl;
+    }
+}
+int stringToInt(const std::string& str) {
+    //cout << "string à convetir " << str << endl;
+    int result = 0;
+    int sign = 1;
+    size_t i = 0;
+
+    // Gestion du signe
+    if (str[0] == '-') {
+        sign = -1;
+        ++i;
+    }
+
+    // Conversion du reste de la chaîne en entier
+    for (; i < str.length(); ++i) {
+        char digit = str[i];
+        if (digit < '0' || digit > '9') {
+            // Si un caractère n'est pas un chiffre, la conversion échoue
+            std::cerr << "Erreur : La chaîne contient des caractères non numériques." << std::endl;
+            return 0;
+        }
+        result = result * 10 + (digit - '0');
+    }
+
+    return result * sign;
+}
+
+void createJSONFileFromNodes(const std::vector<Node>& nodes, const std::string& filename) {
+    // Création du JSON
+    json jsonNodes = json::array();
+    for (const auto& node : nodes) {
+        json jsonNode;
+        jsonNode["name"] = node.name;
+        jsonNode["latitude"] = node.latitude;
+        jsonNode["longitude"] = node.longitude;
+        jsonNode["data"] = json::array();
+        for (int i = 0; i < 24; ++i) {
+            jsonNode["data"].push_back(node.data[i]);
+        }
+        jsonNodes.push_back(jsonNode);
+    }
+
+    // Écriture du JSON dans un fichier
+    std::ofstream outputFile(filename);
+    if (outputFile.is_open()) {
+        outputFile << std::setw(4) << jsonNodes << std::endl;
+        outputFile.close();
+        std::cout << "Le fichier JSON '" << filename << "' a été créé avec succès." << std::endl;
+    } else {
+        std::cerr << "Erreur : Impossible d'ouvrir le fichier JSON '" << filename << "' pour écriture." << std::endl;
+    }
+}
+
+int main() {
+    // Ouvrir le fichier CSV
+    std::ifstream file("C:/Users/dell/Desktop/dataset.csv");
+
+    // Vérifier si le fichier est ouvert
+    if (!file.is_open()) {
+        std::cerr << "Impossible d'ouvrir le fichier." << std::endl;
+        return 1; // Quitter le programme avec un code d'erreur
+    }
+
+    // Lire et afficher chaque ligne du fichiers
+    string line;
+    vector<string> tokens;
+    double count =0;
+    double coutheure =0;
+    //std::map<int, std::vector<std::string>> myMap;
+    //std::map<int, std::vector<Node>> myMap;
+    //map<Node, vector<string>> myMap;
+    vector<Node> nodes;
+    int k=0;
+
+    while (std::getline(file, line)) {
+        count++;
+        stringstream ss(line);
+        string token;
+        while (getline(ss, token, ';')) 
+        {
+            tokens.push_back(token); // Stocker chaque élément dans le tableau
+        }
+
+        string dateTime = tokens[0];
+        //from 5
+        string from = tokens[5];
+        //to 6
+        string to = tokens[6];
+        //from 
+        float from_latitude = stringToFloat(tokens[15]); 
+        float from_longitude = stringToFloat(tokens[16]);
+
+        float to_latitude = stringToFloat(tokens[17]); 
+        float to_longitude = stringToFloat(tokens[18]); 
+
+        
+        string busCount = tokens[9];
+        
+        
+
+        string date = dateTime.substr(0, 10);
+        if(date == "03/18/2018")
+        {
+            int intValue;
+            k++;
+            if(busCount=="") intValue=0;
+            else intValue = stringToInt(busCount) ;
+            int heure = extractHour(dateTime);
+            //cout << "je suis heure : " << heure <<  "from : " << from << "to : " << to <<"bus count 1" << intValue<< "reeel " << busCount<< endl;
+            nodeExistsByName(nodes,from,from_latitude,from_longitude,intValue,heure); 
+            nodeExistsByName(nodes,to,to_latitude,to_longitude,intValue,heure); 
+            
+        }
+
+        // Effacer les éléments de la ligne pour la prochaine itération
+        tokens.clear();
+        //if(k == 3) break;
+
+    }
+    printNodes(nodes);
+    createJSONFileFromNodes(nodes,"data.json");
+    // Fermer le fichier
+    file.close();
+    //printLinesForHour(myMap, 8);
+    //printLinesForHour(myMap,8,"LaSalle");
+
+    return 0; // Tout s'est bien passé
+}

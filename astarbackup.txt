@@ -1,0 +1,164 @@
+
+class City {
+    constructor(name, x, y, parent, data) {
+        this.name = name;
+        this.x = x;
+        this.y = y;
+        this.parent = parent;
+        this.d = 0;
+        this.h = 0;
+        this.data = data;
+        this.listConnection = [];
+    }
+
+    addConnection(city) {
+        this.listConnection.push(city);
+    }
+
+    getConnection() {
+        return this.listConnection;
+    }
+
+    parcours() {
+        let listParent = [];
+        let current = this;
+        while (current !== null) {
+            listParent.push(current);
+            current = current.parent;
+        }
+        // Créer un tableau avec trois colonnes : name, x et y
+        let table = [];
+        listParent.reverse().forEach(city => {
+            table.push([city.name, city.x, city.y]);
+        });
+        // Retourner t chaîne vide car le tableau a déjà été affiché
+        return table;
+    }
+    
+}
+
+const cityDic = {};
+const cityConnection = {};
+
+function positionParse(positions) {
+    const lines = positions.split('\n');
+    for (let line of lines) {
+        const [name, x, y] = line.split(':');
+        const city = new City(name, parseFloat(x), parseFloat(y), null, []);
+        cityDic[name] = city;
+    }
+}
+
+function connectionParse(connections) {
+    const lines = connections.split('\n');
+    for (let line of lines) {
+        const [city1, city2, distance] = line.split(':');
+        if (city1 && city2 && distance) {
+            cityConnection[city1] = cityConnection[city1] || {};
+            cityConnection[city1][city2] = distance;
+            cityConnection[city2] = cityConnection[city2] || {};
+            cityConnection[city2][city1] = distance;
+        }
+    }
+}
+
+function dataParse(data) {
+    const lines = data.split('\n');
+    for (let line of lines) {
+        const [name, ...values] = line.split(':');
+        const city = cityDic[name];
+        if (city) {
+            city.data = values.map(val => parseInt(val));
+        }
+    }
+}
+//heuristique de la distance
+function h1_data(c1, c2, indice) {
+    if (indice >= 0 && indice < c1.data.length && indice < c2.data.length) {
+        return Math.abs(c1.data[indice] - c2.data[indice]);
+    } else {
+        return 0;
+    }
+}
+//heuristique de la centralite
+function h2_data(c1, c2) {
+    // Vérifier si les villes ont des données de centralité
+    if (c1.data && c2.data && c1.data.length > 0 && c2.data.length > 0) {
+        // Calculer la différence de centralité (utilisation de la valeur absolue)
+        return Math.abs(c1.data[0] - c2.data[0]); // Supposons que la centralité est stockée dans le premier élément du tableau data
+    } else {
+        // Retourner une valeur par défaut si les données de centralité ne sont pas disponibles
+        return Number.MAX_SAFE_INTEGER; // Utilisation d'une valeur maximale sûre comme valeur par défaut
+    }
+}
+function createConnection() {
+    for (const city in cityConnection) {
+        const currentCity = cityDic[city];
+        for (const connection in cityConnection[city]) {
+            currentCity.addConnection(cityDic[connection]);
+        }
+    }
+}
+
+function astar(departure, destination, nameHeuristic, dataIdx = -1) {
+    const cityStart = cityDic[departure];
+    const cityEnd = cityDic[destination];
+    let result = []; // Utiliser un tableau pour stocker les résultats de parcours
+    const frontier = [cityStart];
+    const history = [];
+    while (frontier.length > 0) {
+        const city = frontier.shift();
+        history.push(city.name);
+        history.push(city.name);
+        if (city.name === cityEnd.name) {
+            result = city.parcours(); // Appel de la fonction parcours
+            return result;
+        }
+        const nextCities = city.getConnection();
+        for (const c of nextCities) {
+            const newCity = new City(c.name, c.x, c.y, city, c.data);
+            newCity.d = city.d + parseInt(cityConnection[city.name][newCity.name]);
+            if (dataIdx !== -1) {
+                newCity.h += 2 * h2_data(city, newCity) + h1_data(city, newCity, dataIdx);
+            }
+            newCity.listConnection = c.listConnection;
+            if (!frontier.includes(newCity) && !history.includes(c.name)) {
+                frontier.push(newCity);
+            }
+        }
+        frontier.sort((a, b) => a.h - b.h);
+      
+    }
+
+    return result; // Retourner le tableau des résultats
+}
+
+
+async function algorithmeAstar(source, destination, currentTime) {
+    try {
+        // Lecture des fichiers de données
+        const fileConnectionsResponse = await fetch("distances.txt");
+        const filePositionsResponse = await fetch("street_long_lat.txt");
+        const fileDataResponse = await fetch("extracted_street_data.txt");
+        const fileConnections = await fileConnectionsResponse.text();
+        const filePositions = await filePositionsResponse.text();
+        const fileData = await fileDataResponse.text();
+
+        // Traitement des données
+        positionParse(filePositions);
+        connectionParse(fileConnections);
+        dataParse(fileData);
+        createConnection();
+
+        let astarResult = astar(source, destination, "heuristic_data", currentTime); // Stocker le résultat de l'algorithme A* dans une variable distincte
+        console.table(astarResult);
+        
+        // Récupérer les coordonnées x et y de chaque élément de astarResult
+        const routeCoordinates = astarResult.map(city => [city[1], city[2]]);
+        
+        return routeCoordinates;
+       
+    } catch (error) {
+        console.error("Erreur lors de l'exécution de l'algorithme A* :", error);
+    }
+}
